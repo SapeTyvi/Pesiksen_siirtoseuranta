@@ -25,8 +25,12 @@ def fetch_transfers():
         cols = [td.get_text(strip=True) for td in row.find_all("td")]
         if len(cols) >= 6:
             transfers.append({
-                "date": cols[0], "player": cols[1], "status": cols[2],
-                "type": cols[3], "from_club": cols[4], "to_club": cols[5],
+                "date": cols[0],
+                "player": cols[1],
+                "status": cols[2],
+                "type": cols[3],
+                "from_club": cols[4],
+                "to_club": cols[5],
                 "leagues": cols[6] if len(cols) > 6 else "",
                 "lisatiedot": cols[7] if len(cols) > 7 else "",
             })
@@ -50,20 +54,28 @@ def transfer_key(t):
 
 
 def transfer_changed(old, new):
-    return old["leagues"] != new["leagues"] or old.get("lisatiedot", "") != new.get("lisatiedot", "")
+    old_li = old.get("lisatiedot", "")
+    new_li = new.get("lisatiedot", "")
+    return old["leagues"] != new["leagues"] or old_li != new_li
 
 
 def send_telegram(message):
     url = "https://api.telegram.org/bot" + TELEGRAM_BOT_TOKEN + "/sendMessage"
-    payload = {"chat_id": TELEGRAM_CHAT_ID, "text": message, "parse_mode": "HTML"}
+    payload = {
+        "chat_id": TELEGRAM_CHAT_ID,
+        "text": message,
+        "parse_mode": "HTML",
+    }
     resp = requests.post(url, json=payload, timeout=10)
     resp.raise_for_status()
 
 
 def main():
-    print("[" + datetime.utcnow().isoformat() + "] Checking for new transfers...")
+    now = datetime.utcnow().isoformat()
+    print("[" + now + "] Checking for new transfers...")
     current = fetch_transfers()
     previous = load_snapshot()
+
     if not previous:
         save_snapshot(current)
         print("First run: saved " + str(len(current)) + " transfers as baseline.")
@@ -83,10 +95,42 @@ def main():
         return
 
     lines = []
+
     if new_transfers:
-        lines.append("\u26be <b>" + str(len(new_transfers)) + " uusi siirto pesäpallossa!</b>\n")
+        count = str(len(new_transfers))
+        lines.append("\u26be <b>" + count + " uusi siirto pesäpallossa!</b>\n")
         for t in new_transfers:
-            lines.append(
-                "\U0001f4c5 <b>" + html.escape(t["date"]) + "</b> \u2014 " + html.escape(t["player"]) + "\n"
-                + "  " + html.escape(t["from_club"]) + " \u27a1\ufe0f " + html.escape(t["to_club"]) + "\n"
-                + "  " + html.escape(t["type"]) + " | " + html.escape(t["st
+            line = "\U0001f4c5 <b>" + html.escape(t["date"]) + "</b>"
+            line += " \u2014 " + html.escape(t["player"])
+            line += "\n  " + html.escape(t["from_club"])
+            line += " \u27a1\ufe0f " + html.escape(t["to_club"])
+            line += "\n  " + html.escape(t["type"])
+            line += " | " + html.escape(t["status"])
+            line += "\n  " + html.escape(t["leagues"])
+            li = t.get("lisatiedot", "")
+            if li:
+                line += "\n  \U0001f4dd " + html.escape(li)
+            lines.append(line)
+
+    if updated_transfers:
+        count = str(len(updated_transfers))
+        lines.append("\n\u270f\ufe0f <b>" + count + " siirto päivitetty!</b>\n")
+        for t in updated_transfers:
+            line = "\U0001f4c5 <b>" + html.escape(t["date"]) + "</b>"
+            line += " \u2014 " + html.escape(t["player"])
+            line += "\n  " + html.escape(t["from_club"])
+            line += " \u27a1\ufe0f " + html.escape(t["to_club"])
+            li = t.get("lisatiedot", "")
+            if li:
+                line += "\n  \U0001f4dd Lis\u00e4tiedot: " + html.escape(li)
+            lines.append(line)
+
+    lines.append("\n\U0001f517 " + URL)
+    message = "\n".join(lines)
+    send_telegram(message)
+    save_snapshot(current)
+    print("Notification sent and snapshot updated.")
+
+
+if __name__ == "__main__":
+    main()
