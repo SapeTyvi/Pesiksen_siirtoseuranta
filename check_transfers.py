@@ -12,6 +12,13 @@ SNAPSHOT_FILE = "snapshot.json"
 TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 
+TRACKED_LEAGUES = {
+    "Miesten superpesis",
+    "Miesten ykköspesis",
+    "Naisten superpesis",
+    "Naisten ykköspesis",
+}
+
 
 def fetch_transfers():
     resp = requests.get(URL, timeout=15)
@@ -24,6 +31,9 @@ def fetch_transfers():
     for row in table.find_all("tr")[1:]:
         cols = [td.get_text(strip=True) for td in row.find_all("td")]
         if len(cols) >= 6:
+            leagues = cols[6] if len(cols) > 6 else ""
+            if leagues not in TRACKED_LEAGUES:
+                continue
             transfers.append({
                 "date": cols[0],
                 "player": cols[1],
@@ -31,8 +41,9 @@ def fetch_transfers():
                 "type": cols[3],
                 "from_club": cols[4],
                 "to_club": cols[5],
-                "leagues": cols[6] if len(cols) > 6 else "",
+                "leagues": leagues,
                 "lisatiedot": cols[7] if len(cols) > 7 else "",
+                "details": cols[8] if len(cols) > 8 else "",
             })
     return transfers
 
@@ -56,7 +67,13 @@ def transfer_key(t):
 def transfer_changed(old, new):
     old_li = old.get("lisatiedot", "")
     new_li = new.get("lisatiedot", "")
-    return old["leagues"] != new["leagues"] or old_li != new_li
+    old_det = old.get("details", "")
+    new_det = new.get("details", "")
+    return (
+        old["leagues"] != new["leagues"]
+        or old_li != new_li
+        or old_det != new_det
+    )
 
 
 def send_telegram(message):
@@ -110,6 +127,9 @@ def main():
             li = t.get("lisatiedot", "")
             if li:
                 line += "\n  \U0001f4dd " + html.escape(li)
+            det = t.get("details", "")
+            if det:
+                line += "\n  \u2139\ufe0f " + html.escape(det)
             lines.append(line)
 
     if updated_transfers:
@@ -120,9 +140,13 @@ def main():
             line += " \u2014 " + html.escape(t["player"])
             line += "\n  " + html.escape(t["from_club"])
             line += " \u27a1\ufe0f " + html.escape(t["to_club"])
+            line += "\n  " + html.escape(t["leagues"])
             li = t.get("lisatiedot", "")
             if li:
-                line += "\n  \U0001f4dd Lis\u00e4tiedot: " + html.escape(li)
+                line += "\n  \U0001f4dd " + html.escape(li)
+            det = t.get("details", "")
+            if det:
+                line += "\n  \u2139\ufe0f " + html.escape(det)
             lines.append(line)
 
     lines.append("\n\U0001f517 " + URL)
