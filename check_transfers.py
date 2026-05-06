@@ -92,7 +92,7 @@ def send_telegram(message):
 
 
 def main():
-    now = datetime.now(datetime.UTC).isoformat()
+    now = datetime.utcnow().isoformat()
     print("[" + now + "] Checking for new transfers...")
     current = fetch_transfers()
     previous = load_snapshot()
