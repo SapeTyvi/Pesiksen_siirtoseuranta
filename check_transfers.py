@@ -1,3 +1,4 @@
+import html
 import json
 import os
 from datetime import datetime
@@ -83,31 +84,9 @@ def main():
 
     lines = []
     if new_transfers:
-        lines.append("\u26be <b>" + str(len(new_transfers)) + " uusi siirto pes\u00e4pallossa!</b>\n")
+        lines.append("\u26be <b>" + str(len(new_transfers)) + " uusi siirto pesäpallossa!</b>\n")
         for t in new_transfers:
             lines.append(
-                "\U0001f4c5 <b>" + t["date"] + "</b> \u2014 " + t["player"] + "\n"
-                + "  " + t["from_club"] + " \u27a1\ufe0f " + t["to_club"] + "\n"
-                + "  " + t["type"] + " | " + t["status"] + "\n"
-                + "  " + t["leagues"]
-                + ("\n  \u00f0 " + t["lisatiedot"] if t.get("lisatiedot") else "")
-            )
-
-    if updated_transfers:
-        lines.append("\n\u270f\ufe0f <b>" + str(len(updated_transfers)) + " siirto p\u00e4vitetty!</b>\n")
-        for t in updated_transfers:
-            lines.append(
-                "\U0001f4c5 <b>" + t["date"] + "</b> \u2014 " + t["player"] + "\n"
-                + "  " + t["from_club"] + " \u27a1\ufe0f " + t["to_club"] + "\n"
-                + ("  \U0001f4dd Lis\u00e4tiedot: " + t["lisatiedot"] if t.get("lisatiedot") else "")
-            )
-
-    lines.append("\n\U0001f517 " + URL)
-    message = "\n".join(lines)
-    send_telegram(message)
-    save_snapshot(current)
-    print("Notification sent and snapshot updated.")
-
-
-if __name__ == "__main__":
-    main()
+                "\U0001f4c5 <b>" + html.escape(t["date"]) + "</b> \u2014 " + html.escape(t["player"]) + "\n"
+                + "  " + html.escape(t["from_club"]) + " \u27a1\ufe0f " + html.escape(t["to_club"]) + "\n"
+                + "  " + html.escape(t["type"]) + " | " + html.escape(t["st
