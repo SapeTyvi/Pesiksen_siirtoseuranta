@@ -13,11 +13,15 @@ TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
 TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 
 TRACKED_LEAGUES = {
-    "Miesten superpesis",
-    "Miesten ykköspesis",
-    "Naisten superpesis",
-    "Naisten ykköspesis",
+    "Miesten Superpesis",
+    "Miesten Ykköspesis",
+    "Naisten Superpesis",
+    "Naisten Ykköspesis",
 }
+
+
+def is_tracked(leagues_str):
+    return any(league in leagues_str for league in TRACKED_LEAGUES)
 
 
 def fetch_transfers():
@@ -32,7 +36,7 @@ def fetch_transfers():
         cols = [td.get_text(strip=True) for td in row.find_all("td")]
         if len(cols) >= 6:
             leagues = cols[6] if len(cols) > 6 else ""
-            if leagues not in TRACKED_LEAGUES:
+            if not is_tracked(leagues):
                 continue
             transfers.append({
                 "date": cols[0],
@@ -88,7 +92,7 @@ def send_telegram(message):
 
 
 def main():
-    now = datetime.utcnow().isoformat()
+    now = datetime.now(datetime.UTC).isoformat()
     print("[" + now + "] Checking for new transfers...")
     current = fetch_transfers()
     previous = load_snapshot()
