@@ -211,7 +211,7 @@
   {
     "date": "7.5.2026",
     "player": "Haapsaari Leon",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Täyssiirto",
     "from_club": "Keravan Pesis-Juniorit",
     "to_club": "Puna-Mustat, Helsinki",
@@ -1014,7 +1014,7 @@
   {
     "date": "5.5.2026",
     "player": "Kuusisto Ella",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Lapuan Virkiä",
     "to_club": "Janakkalan Jana",
@@ -2174,6 +2174,17 @@
     "from_club": "Haminan Palloilijat",
     "to_club": "Sotkamon Jymy",
     "leagues": "Miesten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "date": "8.5.2026",
+    "player": "Rönkä Martti",
+    "status": "Odottaa hyväksyntää",
+    "type": "Täyssiirto",
+    "from_club": "Puijon Pesis, Kuopio",
+    "to_club": "Siilinjärven Pesis",
+    "leagues": "Miesten Ykköspesis",
     "lisatiedot": "",
     "details": ""
   },
