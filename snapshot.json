@@ -1399,7 +1399,7 @@
   {
     "date": "9.5.2026",
     "player": "Mononen Aino",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Täyssiirto",
     "from_club": "Jyväskylän Kirittäret",
     "to_club": "Janakkalan Jana",
@@ -2538,6 +2538,17 @@
     "to_club": "Raksilan Likat, Oulu",
     "leagues": "Naisten Superpesis",
     "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "date": "29.1.2026",
+    "player": "Tolonen Riku",
+    "status": "Hyväksytty",
+    "type": "Täyssiirto",
+    "from_club": "Oulun Lippo",
+    "to_club": "Puijon Pesis, Kuopio",
+    "leagues": "Miesten Ykköspesis, Miesten suomensarja",
+    "lisatiedot": "Sarjatasoa korotettu 10.5.2026 9:17: Miesten Ykköspesis",
     "details": ""
   },
   {
