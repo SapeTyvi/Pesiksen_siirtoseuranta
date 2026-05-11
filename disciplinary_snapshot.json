@@ -1,5 +1,21 @@
 [
   {
+    "key": "131122|17774|Varoitus (1 p.)",
+    "date": "2026-05-11T18:00:00+03:00",
+    "series": "Poikien Superpesis",
+    "home": "Joensuun Maila 1",
+    "away": "Puijon Pesis, Kuopio",
+    "target_name": "Osmo Tajakka",
+    "target_type": "player",
+    "target_team": "Joensuun Maila 1",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 2L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129567|11236|Varoitus (1 p.)",
     "date": "2026-05-09T16:00:00+03:00",
     "series": "Miesten Ykköspesis",
