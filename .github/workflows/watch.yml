@@ -1,35 +1,45 @@
-name: Pesis Transfer Watcher
+name: Pesis Watchers
 
 on:
   schedule:
-        - cron: "*/15 * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
 
 jobs:
-  check:
+  transfers:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4
-
-      - name: Run transfer checker
+      - run: pip install requests beautifulsoup4
+      - run: python check_transfers.py
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python check_transfers.py
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update transfer snapshot"
+          file_pattern: snapshot.json
 
-      - name: Commit updated snapshot
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add snapshot.json
-          git diff --cached --quiet || git commit -m "chore: update snapshot [skip ci]"
-          git push
+  disciplinary:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - run: python check_disciplinary.py
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update disciplinary snapshot"
+          file_pattern: disciplinary_snapshot.json
