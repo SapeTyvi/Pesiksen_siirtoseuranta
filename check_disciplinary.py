@@ -15,8 +15,10 @@ TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 TRACKED_LEAGUES = {
     "Miesten Superpesis",
     "Miesten Ykköspesis",
+    "Miesten Talvisuper",
     "Naisten Superpesis",
     "Naisten Ykköspesis",
+    "Naisten Talvisuper",
     "Poikien Superpesis",
     "Tyttöjen Superpesis",
 }
