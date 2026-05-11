@@ -20,7 +20,10 @@ TRACKED_LEAGUES = {
 }
 
 
-def is_tracked(leagues_str):
+def is_tracked(leagues_str, table_index):
+    # Table 2 (index 1) = youth 1-3 match transfers, always include
+    if table_index == 1:
+        return True
     return any(league in leagues_str for league in TRACKED_LEAGUES)
 
 
@@ -29,26 +32,26 @@ def fetch_transfers():
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
     transfers = []
-    table = soup.find("table")
-    if not table:
-        return transfers
-    for row in table.find_all("tr")[1:]:
-        cols = [td.get_text(strip=True) for td in row.find_all("td")]
-        if len(cols) >= 6:
-            leagues = cols[6] if len(cols) > 6 else ""
-            if not is_tracked(leagues):
-                continue
-            transfers.append({
-                "date": cols[0],
-                "player": cols[1],
-                "status": cols[2],
-                "type": cols[3],
-                "from_club": cols[4],
-                "to_club": cols[5],
-                "leagues": leagues,
-                "lisatiedot": cols[7] if len(cols) > 7 else "",
-                "details": cols[8] if len(cols) > 8 else "",
-            })
+    tables = soup.find_all("table")
+    for table_index, table in enumerate(tables[:2]):  # only first two tables
+        for row in table.find_all("tr")[1:]:
+            cols = [td.get_text(strip=True) for td in row.find_all("td")]
+            if len(cols) >= 6:
+                leagues = cols[6] if len(cols) > 6 else ""
+                if not is_tracked(leagues, table_index):
+                    continue
+                transfers.append({
+                    "table": table_index,
+                    "date": cols[0],
+                    "player": cols[1],
+                    "status": cols[2],
+                    "type": cols[3],
+                    "from_club": cols[4],
+                    "to_club": cols[5],
+                    "leagues": leagues,
+                    "lisatiedot": cols[7] if len(cols) > 7 else "",
+                    "details": cols[8] if len(cols) > 8 else "",
+                })
     return transfers
 
 
@@ -65,7 +68,7 @@ def save_snapshot(transfers):
 
 
 def transfer_key(t):
-    return t["date"] + "|" + t["player"] + "|" + t["from_club"] + "|" + t["to_club"]
+    return str(t.get("table", 0)) + "|" + t["date"] + "|" + t["player"] + "|" + t["from_club"] + "|" + t["to_club"]
 
 
 def transfer_changed(old, new):
@@ -89,6 +92,24 @@ def send_telegram(message):
     }
     resp = requests.post(url, json=payload, timeout=10)
     resp.raise_for_status()
+
+
+def format_transfer(t):
+    line = "\U0001f4c5 <b>" + html.escape(t["date"]) + "</b>"
+    line += " \u2014 " + html.escape(t["player"])
+    line += "\n  " + html.escape(t["from_club"])
+    line += " \u27a1\ufe0f " + html.escape(t["to_club"])
+    line += "\n  " + html.escape(t["type"])
+    line += " | " + html.escape(t["status"])
+    if t.get("leagues"):
+        line += "\n  " + html.escape(t["leagues"])
+    li = t.get("lisatiedot", "")
+    if li:
+        line += "\n  \U0001f4dd " + html.escape(li)
+    det = t.get("details", "")
+    if det:
+        line += "\n  \u2139\ufe0f " + html.escape(det)
+    return line
 
 
 def main():
@@ -121,37 +142,13 @@ def main():
         count = str(len(new_transfers))
         lines.append("\u26be <b>" + count + " uusi siirto pesäpallossa!</b>\n")
         for t in new_transfers:
-            line = "\U0001f4c5 <b>" + html.escape(t["date"]) + "</b>"
-            line += " \u2014 " + html.escape(t["player"])
-            line += "\n  " + html.escape(t["from_club"])
-            line += " \u27a1\ufe0f " + html.escape(t["to_club"])
-            line += "\n  " + html.escape(t["type"])
-            line += " | " + html.escape(t["status"])
-            line += "\n  " + html.escape(t["leagues"])
-            li = t.get("lisatiedot", "")
-            if li:
-                line += "\n  \U0001f4dd " + html.escape(li)
-            det = t.get("details", "")
-            if det:
-                line += "\n  \u2139\ufe0f " + html.escape(det)
-            lines.append(line)
+            lines.append(format_transfer(t))
 
     if updated_transfers:
         count = str(len(updated_transfers))
         lines.append("\n\u270f\ufe0f <b>" + count + " siirto päivitetty!</b>\n")
         for t in updated_transfers:
-            line = "\U0001f4c5 <b>" + html.escape(t["date"]) + "</b>"
-            line += " \u2014 " + html.escape(t["player"])
-            line += "\n  " + html.escape(t["from_club"])
-            line += " \u27a1\ufe0f " + html.escape(t["to_club"])
-            line += "\n  " + html.escape(t["leagues"])
-            li = t.get("lisatiedot", "")
-            if li:
-                line += "\n  \U0001f4dd " + html.escape(li)
-            det = t.get("details", "")
-            if det:
-                line += "\n  \u2139\ufe0f " + html.escape(det)
-            lines.append(line)
+            lines.append(format_transfer(t))
 
     lines.append("\n\U0001f517 " + URL)
     message = "\n".join(lines)
