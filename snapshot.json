@@ -2905,6 +2905,18 @@
   },
   {
     "table": 0,
+    "date": "12.5.2026",
+    "player": "Vahtolammi Viivi",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Manse PP Edustus, Tampere",
+    "to_club": "Lapuan Virkiä",
+    "leagues": "Naisten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "30.11.2025",
     "player": "Vainionpää Jukka-Pekka",
     "status": "Hyväksytty",
@@ -3183,7 +3195,7 @@
     "table": 1,
     "date": "12.5.2026",
     "player": "Kohonen Pyry",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Sotkamon Jymy",
     "to_club": "Kempeleen Kiri",
