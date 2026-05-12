@@ -1,5 +1,21 @@
 [
   {
+    "key": "131125|5107|Varoitus (1 p.)",
+    "date": "2026-05-12T12:00:00+03:00",
+    "series": "Poikien Superpesis",
+    "home": "Kiteen Pallo -90",
+    "away": "Sotkamon Jymy",
+    "target_name": "Jasse Kostamo",
+    "target_type": "manager",
+    "target_team": "Kiteen Pallo -90",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Pitkittynyt protestointi",
+    "when_happened": "2. jakso 4L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "131122|17774|Varoitus (1 p.)",
     "date": "2026-05-11T18:00:00+03:00",
     "series": "Poikien Superpesis",
