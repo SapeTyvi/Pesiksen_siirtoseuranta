@@ -1,5 +1,21 @@
 [
   {
+    "key": "129128|9963|Varoitus (1 p.)",
+    "date": "2026-05-13T18:00:00+03:00",
+    "series": "Naisten Superpesis",
+    "home": "Fera, Rauma",
+    "away": "Jyväskylän Kirittäret",
+    "target_name": "Aurora Frantsila",
+    "target_type": "player",
+    "target_team": "Fera, Rauma",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Äänekäs protestointi",
+    "when_happened": "1. jakso 3L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "131125|5107|Varoitus (1 p.)",
     "date": "2026-05-12T12:00:00+03:00",
     "series": "Poikien Superpesis",
