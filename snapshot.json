@@ -3325,6 +3325,30 @@
   },
   {
     "table": 1,
+    "date": "14.5.2026",
+    "player": "Liikala Johannes",
+    "status": "Hyväksytty",
+    "type": "Määräaikainen siirto",
+    "from_club": "Koskenkorvan Urheilijat",
+    "to_club": "Alavuden Peli-Veikot",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
+    "date": "14.5.2026",
+    "player": "Liikala Nikolas",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Koskenkorvan Urheilijat",
+    "to_club": "Alavuden Peli-Veikot",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "12.5.2026",
     "player": "Saloranta Saku",
     "status": "Hyväksytty",
