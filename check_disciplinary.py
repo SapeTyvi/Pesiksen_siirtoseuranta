@@ -21,6 +21,8 @@ TRACKED_LEAGUES = {
     "Naisten Talvisuper",
     "Poikien Superpesis",
     "Tyttöjen Superpesis",
+    "Miesten suomensarja",
+    "Naisten suomensarja"
 }
 
 
