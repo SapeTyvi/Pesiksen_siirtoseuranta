@@ -1,5 +1,37 @@
 [
   {
+    "key": "129573|6515|Varoitus (1 p.)",
+    "date": "2026-05-14T18:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Seinäjoen Maila-Jussit",
+    "away": "Kankaanpään Maila",
+    "target_name": "Jouni Mäki",
+    "target_type": "player",
+    "target_team": "Kankaanpään Maila",
+    "type_name": "Varoitus (1 p.)",
+    "reason": null,
+    "when_happened": "1. jakso 4A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "129573|6515|Varoitus (1 p.)",
+    "date": "2026-05-14T18:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Seinäjoen Maila-Jussit",
+    "away": "Kankaanpään Maila",
+    "target_name": "Jouni Mäki",
+    "target_type": "player",
+    "target_team": "Kankaanpään Maila",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 4A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129128|9963|Varoitus (1 p.)",
     "date": "2026-05-13T18:00:00+03:00",
     "series": "Naisten Superpesis",
@@ -242,7 +274,7 @@
   {
     "key": "129773|2906|Varoitus (1 p.)",
     "date": "2026-03-29T16:00:00+03:00",
-    "series": "Miesten Talvisuper",
+    "series": "Talvisuper, Miesten Talvisuper",
     "home": "Manse PP, Tampere",
     "away": "Sotkamon Jymy",
     "target_name": "Iiro Haimi",
@@ -258,7 +290,7 @@
   {
     "key": "128821|12070|Varoitus (1 p.)",
     "date": "2026-03-08T16:00:00+02:00",
-    "series": "Naisten Talvisuper",
+    "series": "Talvisuper, Naisten Talvisuper",
     "home": "Jyväskylän Kirittäret",
     "away": "Jussittaret, Seinäjoki",
     "target_name": "Kaisa Soini",
@@ -274,7 +306,7 @@
   {
     "key": "128860|3021|Kurinpidon käsittelyssä",
     "date": "2026-02-28T13:00:00+02:00",
-    "series": "Miesten Talvisuper",
+    "series": "Talvisuper, Miesten Talvisuper",
     "home": "Hyvinkään Tahko",
     "away": "Koskenkorvan Urheilijat",
     "target_name": "Jakob Vikström",
@@ -290,7 +322,7 @@
   {
     "key": "128837|7259|Varoitus (1 p.)",
     "date": "2026-01-03T14:00:00+02:00",
-    "series": "Miesten Talvisuper",
+    "series": "Talvisuper, Miesten Talvisuper",
     "home": "Joensuun Maila",
     "away": "Imatran Pallo-Veikot",
     "target_name": "Konsta Hyötyläinen",
