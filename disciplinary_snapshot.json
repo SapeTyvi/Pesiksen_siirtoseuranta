@@ -1,5 +1,21 @@
 [
   {
+    "key": "130635|11208|Varoitus (1 p.)",
+    "date": "2026-05-16T14:00:00+03:00",
+    "series": "Miesten suomensarja",
+    "home": "Keravan Pesis-Juniorit",
+    "away": "Turku-Pesis",
+    "target_name": "Juho Aalto",
+    "target_type": "player",
+    "target_team": "Keravan Pesis-Juniorit",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "1. jakso 2L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129020|6090|Varoitus (1 p.)",
     "date": "2026-05-15T18:00:00+03:00",
     "series": "Miesten Superpesis",
