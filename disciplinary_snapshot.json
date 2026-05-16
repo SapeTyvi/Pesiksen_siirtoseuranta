@@ -1,5 +1,21 @@
 [
   {
+    "key": "129576|2897|Varoitus (1 p.)",
+    "date": "2026-05-16T16:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Puna-Mustat, Helsinki",
+    "away": "Simon Kiri",
+    "target_name": "Ilpo Korhonen",
+    "target_type": "manager",
+    "target_team": "Simon Kiri",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 4A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "130635|11208|Varoitus (1 p.)",
     "date": "2026-05-16T14:00:00+03:00",
     "series": "Miesten suomensarja",
