@@ -2125,6 +2125,18 @@
   },
   {
     "table": 0,
+    "date": "16.5.2026",
+    "player": "Piirainen Netta",
+    "status": "Hyväksytty",
+    "type": "Määräaikainen siirto",
+    "from_club": "Roihu, Helsinki",
+    "to_club": "Haminan Palloilijat",
+    "leagues": "Naisten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "29.12.2025",
     "player": "Pirskanen Johanna",
     "status": "Hyväksytty",
@@ -3351,7 +3363,7 @@
     "table": 1,
     "date": "16.5.2026",
     "player": "Lapinharju Matias",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Keravan Pesis-Juniorit",
     "to_club": "Lahden Mailaveikot",
