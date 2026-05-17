@@ -1,5 +1,21 @@
 [
   {
+    "key": "129579|11011|Varoitus (1 p.)",
+    "date": "2026-05-17T16:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Kankaanpään Maila",
+    "away": "Kannuksen Ura",
+    "target_name": "Onni Kaski",
+    "target_type": "player",
+    "target_team": "Kankaanpään Maila",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Pitkittynyt protestointi",
+    "when_happened": "Kotiutuskilpailu 1L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "130544|13021|Varoitus (1 p.)",
     "date": "2026-05-17T15:00:00+03:00",
     "series": "Miesten suomensarja",
