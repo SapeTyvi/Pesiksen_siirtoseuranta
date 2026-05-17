@@ -1,5 +1,21 @@
 [
   {
+    "key": "130544|13021|Varoitus (1 p.)",
+    "date": "2026-05-17T15:00:00+03:00",
+    "series": "Miesten suomensarja",
+    "home": "Jalasjärven Jalas",
+    "away": "Kauhajoen Karhu",
+    "target_name": "Remu Latva-Panula",
+    "target_type": "player",
+    "target_team": "Kauhajoen Karhu",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 4L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129576|2897|Varoitus (1 p.)",
     "date": "2026-05-16T16:00:00+03:00",
     "series": "Miesten Ykköspesis",
