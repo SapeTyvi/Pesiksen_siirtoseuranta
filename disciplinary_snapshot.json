@@ -1,5 +1,21 @@
 [
   {
+    "key": "130484|13289|Varoitus (1 p.)",
+    "date": "2026-05-17T17:00:00+03:00",
+    "series": "Miesten suomensarja",
+    "home": "Simon Kiri",
+    "away": "Muhoksen Pallo-Salamat",
+    "target_name": "Santtu  Anttila",
+    "target_type": "player",
+    "target_team": "Simon Kiri",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Äänekäs protestointi",
+    "when_happened": "2. jakso 1A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129579|11011|Varoitus (1 p.)",
     "date": "2026-05-17T16:00:00+03:00",
     "series": "Miesten Ykköspesis",
