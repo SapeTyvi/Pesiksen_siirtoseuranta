@@ -1,5 +1,21 @@
 [
   {
+    "key": "128920|10468|Kurinpidon käsittelyssä",
+    "date": "2026-05-17T17:00:00+03:00",
+    "series": "Miesten Superpesis",
+    "home": "Imatran Pallo-Veikot",
+    "away": "Alajärven Ankkurit",
+    "target_name": "Kasperi Vehkaoja",
+    "target_type": "player",
+    "target_team": "Imatran Pallo-Veikot",
+    "type_name": "Kurinpidon käsittelyssä",
+    "reason": null,
+    "when_happened": "1. jakso 3L",
+    "has_decision": false,
+    "processing_started": true,
+    "processing_ended": false
+  },
+  {
     "key": "130484|13289|Varoitus (1 p.)",
     "date": "2026-05-17T17:00:00+03:00",
     "series": "Miesten suomensarja",
@@ -402,7 +418,7 @@
   {
     "key": "129773|2906|Varoitus (1 p.)",
     "date": "2026-03-29T16:00:00+03:00",
-    "series": "Talvisuper, Miesten Talvisuper",
+    "series": "Miesten Talvisuper",
     "home": "Manse PP, Tampere",
     "away": "Sotkamon Jymy",
     "target_name": "Iiro Haimi",
@@ -418,7 +434,7 @@
   {
     "key": "128821|12070|Varoitus (1 p.)",
     "date": "2026-03-08T16:00:00+02:00",
-    "series": "Talvisuper, Naisten Talvisuper",
+    "series": "Naisten Talvisuper",
     "home": "Jyväskylän Kirittäret",
     "away": "Jussittaret, Seinäjoki",
     "target_name": "Kaisa Soini",
@@ -434,7 +450,7 @@
   {
     "key": "128860|3021|Kurinpidon käsittelyssä",
     "date": "2026-02-28T13:00:00+02:00",
-    "series": "Talvisuper, Miesten Talvisuper",
+    "series": "Miesten Talvisuper",
     "home": "Hyvinkään Tahko",
     "away": "Koskenkorvan Urheilijat",
     "target_name": "Jakob Vikström",
@@ -450,7 +466,7 @@
   {
     "key": "128837|7259|Varoitus (1 p.)",
     "date": "2026-01-03T14:00:00+02:00",
-    "series": "Talvisuper, Miesten Talvisuper",
+    "series": "Miesten Talvisuper",
     "home": "Joensuun Maila",
     "away": "Imatran Pallo-Veikot",
     "target_name": "Konsta Hyötyläinen",
