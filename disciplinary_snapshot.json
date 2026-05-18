@@ -253,10 +253,10 @@
     "when_happened": "2. jakso 2L",
     "has_decision": false,
     "processing_started": true,
-    "processing_ended": false
+    "processing_ended": true
   },
   {
-    "key": "130424|17593|Ottelurangaistus (2 p.)",
+    "key": "130424|17593|Kurinpidon käsittelyssä",
     "date": "2026-05-12T18:00:00+03:00",
     "series": "Miesten suomensarja",
     "home": "Kempeleen Kiri",
@@ -264,12 +264,12 @@
     "target_name": "Akseli Ländén ",
     "target_type": "player",
     "target_team": "Oulun Lippo Juniorit",
-    "type_name": "Ottelurangaistus (2 p.)",
+    "type_name": "Kurinpidon käsittelyssä",
     "reason": "Loukkaava käsimerkki",
     "when_happened": "2. jakso 4A",
-    "has_decision": false,
+    "has_decision": true,
     "processing_started": true,
-    "processing_ended": false
+    "processing_ended": true
   },
   {
     "key": "131125|5107|Varoitus (1 p.)",
