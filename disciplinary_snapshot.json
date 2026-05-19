@@ -25,11 +25,11 @@
     "target_type": "manager",
     "target_team": "Seinäjoen Maila-Jussit",
     "type_name": "Ottelurangaistus (2 p.)",
-    "reason": "Rikkomus, josta aiemmin huomautettu",
+    "reason": "Rikkomus, josta aiemmin huomautettu (toinen yhden pisteen rangaistus)",
     "when_happened": "2. jakso 1L",
     "has_decision": false,
-    "processing_started": false,
-    "processing_ended": false
+    "processing_started": true,
+    "processing_ended": true
   },
   {
     "key": "128920|10468|Kurinpidon käsittelyssä",
