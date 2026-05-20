@@ -661,6 +661,18 @@
   },
   {
     "table": 0,
+    "date": "20.5.2026",
+    "player": "Joukainen Jiri",
+    "status": "Hyväksytty",
+    "type": "Määräaikainen siirto",
+    "from_club": "Kouvolan Pallonlyöjät",
+    "to_club": "Alajärven Ankkuritpesis",
+    "leagues": "Miesten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "14.5.2026",
     "player": "Joukainen Jiri",
     "status": "Hyväksytty",
