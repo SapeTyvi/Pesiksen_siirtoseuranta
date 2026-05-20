@@ -1,5 +1,21 @@
 [
   {
+    "key": "129052|8573|Varoitus (1 p.)",
+    "date": "2026-05-20T18:00:00+03:00",
+    "series": "Miesten Superpesis",
+    "home": "Vimpelin Veto",
+    "away": "Kempeleen Kiri",
+    "target_name": "Elmeri Anttila",
+    "target_type": "player",
+    "target_team": "Vimpelin Veto",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 4A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129082|12035|Varoitus (1 p.)",
     "date": "2026-05-20T18:00:00+03:00",
     "series": "Naisten Superpesis",
@@ -11,6 +27,22 @@
     "type_name": "Varoitus (1 p.)",
     "reason": "Epäurheilijamaisuus",
     "when_happened": "2. jakso 3L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "130375|11618|Varoitus (1 p.)",
+    "date": "2026-05-20T18:00:00+03:00",
+    "series": "Miesten suomensarja",
+    "home": "Kiteen Pallo -90",
+    "away": "Puurtilan Kisa-Pojat, Varkaus",
+    "target_name": "Topias Litmanen",
+    "target_type": "player",
+    "target_team": "Puurtilan Kisa-Pojat, Varkaus",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 3A",
     "has_decision": false,
     "processing_started": false,
     "processing_ended": false
