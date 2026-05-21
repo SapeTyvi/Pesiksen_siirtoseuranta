@@ -3361,6 +3361,18 @@
   },
   {
     "table": 1,
+    "date": "21.5.2026",
+    "player": "Kohonen Pyry",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Sotkamon Jymy",
+    "to_club": "Kempeleen Kiri",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "12.5.2026",
     "player": "Kohonen Pyry",
     "status": "Hyväksytty",
