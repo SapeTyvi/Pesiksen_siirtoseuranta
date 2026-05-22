@@ -1981,6 +1981,18 @@
   },
   {
     "table": 0,
+    "date": "22.5.2026",
+    "player": "Paatero Enni",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Pesäkarhut, Pori",
+    "to_club": "Laitilan Jyske",
+    "leagues": "Naisten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "28.11.2025",
     "player": "Palmroth Anna",
     "status": "Hyväksytty",
@@ -3363,7 +3375,7 @@
     "table": 1,
     "date": "21.5.2026",
     "player": "Kohonen Pyry",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Sotkamon Jymy",
     "to_club": "Kempeleen Kiri",
