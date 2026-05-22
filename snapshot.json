@@ -1983,7 +1983,7 @@
     "table": 0,
     "date": "22.5.2026",
     "player": "Paatero Enni",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Pesäkarhut, Pori",
     "to_club": "Laitilan Jyske",
@@ -3344,6 +3344,18 @@
     "from_club": "Kuusankosken Puhti",
     "to_club": "Pesä Ysit, Lappeenranta",
     "leagues": "Naisten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
+    "date": "22.5.2026",
+    "player": "Hautakoski Emma",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Lappajärven Veikot",
+    "to_club": "Lavepesis, Lappajärvi",
+    "leagues": "",
     "lisatiedot": "",
     "details": ""
   },
