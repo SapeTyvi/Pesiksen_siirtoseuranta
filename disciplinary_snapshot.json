@@ -89,11 +89,11 @@
     "target_type": "player",
     "target_team": "Imatran Pallo-Veikot",
     "type_name": "Kurinpidon käsittelyssä",
-    "reason": null,
+    "reason": "Vaarallinen pelitapa",
     "when_happened": "1. jakso 3L",
-    "has_decision": false,
+    "has_decision": true,
     "processing_started": true,
-    "processing_ended": false
+    "processing_ended": true
   },
   {
     "key": "130484|13289|Varoitus (1 p.)",
