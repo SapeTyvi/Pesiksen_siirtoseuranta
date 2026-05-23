@@ -1371,7 +1371,7 @@
     "table": 0,
     "date": "22.5.2026",
     "player": "Lastama Iida",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Laitilan Jyske",
     "to_club": "Mynämäen Vesa",
@@ -3428,7 +3428,7 @@
     "from_club": "Lavepesis, Lappajärvi",
     "to_club": "Lapuan Virkiä",
     "leagues": "",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu23.5.2026 14:20",
     "details": ""
   },
   {
@@ -3471,7 +3471,7 @@
     "table": 1,
     "date": "22.5.2026",
     "player": "Mäkelä Joonas",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Kouvolan Pallonlyöjät",
     "to_club": "Ulvilan Pesä-Veikot",
