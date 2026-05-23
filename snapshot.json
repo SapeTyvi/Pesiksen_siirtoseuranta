@@ -3397,6 +3397,18 @@
   },
   {
     "table": 1,
+    "date": "23.5.2026",
+    "player": "Huuki Noora",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Kannuksen Ura",
+    "to_club": "Haapajärven Pesä-Kiilat",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "21.5.2026",
     "player": "Kohonen Pyry",
     "status": "Hyväksytty",
