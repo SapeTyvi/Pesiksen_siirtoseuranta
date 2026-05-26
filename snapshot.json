@@ -3505,6 +3505,18 @@
   },
   {
     "table": 1,
+    "date": "26.5.2026",
+    "player": "Saarinen Reino",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Kouvolan Pallonlyöjät",
+    "to_club": "Ulvilan Pesä-Veikot",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "12.5.2026",
     "player": "Saloranta Saku",
     "status": "Hyväksytty",
