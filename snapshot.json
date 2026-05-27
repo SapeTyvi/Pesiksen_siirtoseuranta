@@ -3409,6 +3409,18 @@
   },
   {
     "table": 1,
+    "date": "27.5.2026",
+    "player": "Hirvonen Onni",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Joensuun Maila",
+    "to_club": "Pattijoen Urheilijat, Raahe",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "23.5.2026",
     "player": "Huuki Noora",
     "status": "Hyväksytty",
