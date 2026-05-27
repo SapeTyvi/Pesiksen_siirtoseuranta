@@ -96,6 +96,22 @@
     "processing_ended": false
   },
   {
+    "key": "129588|7333|Varoitus (1 p.)",
+    "date": "2026-05-23T14:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Kankaanpään Maila",
+    "away": "Seinäjoen Maila-Jussit",
+    "target_name": "Atte Kontio",
+    "target_type": "player",
+    "target_team": "Seinäjoen Maila-Jussit",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "1. jakso 2A",
+    "has_decision": true,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129052|8573|Varoitus (1 p.)",
     "date": "2026-05-20T18:00:00+03:00",
     "series": "Miesten Superpesis",
