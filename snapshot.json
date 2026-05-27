@@ -423,7 +423,7 @@
     "table": 0,
     "date": "25.5.2026",
     "player": "Heikkilä Toma",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Manse PP Edustus, Tampere",
     "to_club": "Koskenkorvan Urheilijat",
@@ -2180,7 +2180,7 @@
     "from_club": "Roihu, Helsinki",
     "to_club": "Haminan Palloilijat",
     "leagues": "Naisten Ykköspesis",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu27.5.2026 14:35",
     "details": ""
   },
   {
@@ -3507,7 +3507,7 @@
     "table": 1,
     "date": "26.5.2026",
     "player": "Saarinen Reino",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Kouvolan Pallonlyöjät",
     "to_club": "Ulvilan Pesä-Veikot",
