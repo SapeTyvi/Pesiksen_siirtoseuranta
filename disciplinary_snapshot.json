@@ -16,6 +16,22 @@
     "processing_ended": false
   },
   {
+    "key": "129595|5898|Varoitus (1 p.)",
+    "date": "2026-05-29T18:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Kankaanpään Maila",
+    "away": "Puna-Mustat, Helsinki",
+    "target_name": "Antti Väistö",
+    "target_type": "manager",
+    "target_team": "Puna-Mustat, Helsinki",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 1A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "130568|11671|Varoitus (1 p.)",
     "date": "2026-05-27T18:00:00+03:00",
     "series": "Miesten suomensarja",
