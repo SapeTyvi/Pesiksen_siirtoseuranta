@@ -1,5 +1,21 @@
 [
   {
+    "key": "129130|4064|Varoitus (1 p.)",
+    "date": "2026-05-29T18:00:00+03:00",
+    "series": "Naisten Superpesis",
+    "home": "Roihuttaret, Helsinki",
+    "away": "Jyväskylän Kirittäret",
+    "target_name": "Jukka Karttunen",
+    "target_type": "manager",
+    "target_team": "Jyväskylän Kirittäret",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "1. jakso 4A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129157|9691|Varoitus (1 p.)",
     "date": "2026-05-29T18:00:00+03:00",
     "series": "Naisten Superpesis",
