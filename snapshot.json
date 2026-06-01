@@ -3433,6 +3433,18 @@
   },
   {
     "table": 1,
+    "date": "1.6.2026",
+    "player": "Kauppinen Oskari",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Ylivieskan Kuula",
+    "to_club": "Pattijoen Urheilijat, Raahe",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "21.5.2026",
     "player": "Kohonen Pyry",
     "status": "Hyväksytty",
