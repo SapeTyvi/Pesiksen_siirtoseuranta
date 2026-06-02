@@ -3476,7 +3476,7 @@
     "from_club": "Ylivieskan Kuula",
     "to_club": "Pattijoen Urheilijat, Raahe",
     "leagues": "",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu2.6.2026 22:00",
     "details": ""
   },
   {
@@ -3565,6 +3565,18 @@
   },
   {
     "table": 1,
+    "date": "2.6.2026",
+    "player": "Peräaho Nuppu",
+    "status": "Hyväksytty",
+    "type": "Määräaikainen siirto",
+    "from_club": "Haapajärven Pesä-Kiilat",
+    "to_club": "Haapajärven Pesä-Kiilat",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "26.5.2026",
     "player": "Saarinen Reino",
     "status": "Hyväksytty",
@@ -3585,6 +3597,18 @@
     "to_club": "Kempeleen Kiri",
     "leagues": "",
     "lisatiedot": "Siirto purettu21.5.2026 14:12",
+    "details": ""
+  },
+  {
+    "table": 1,
+    "date": "2.6.2026",
+    "player": "Tuomi Aatu",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Hyvinkään Tahko",
+    "to_club": "Pesäsudet Eura",
+    "leagues": "",
+    "lisatiedot": "",
     "details": ""
   },
   {
