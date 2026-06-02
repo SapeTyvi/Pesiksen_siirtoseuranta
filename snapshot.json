@@ -1467,7 +1467,7 @@
     "table": 0,
     "date": "2.6.2026",
     "player": "Leskinen Mette",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Täyssiirto",
     "from_club": "Pöytyän Urheilijat Pesäpallo",
     "to_club": "Raksilan Likat, Oulu",
@@ -1772,6 +1772,18 @@
     "from_club": "Vimpelin Veto",
     "to_club": "Kiteen Pallo -90",
     "leagues": "Miesten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
+    "date": "2.6.2026",
+    "player": "Mäkelä Joonas",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Kouvolan Pallonlyöjät",
+    "to_club": "Ulvilan Pesä-Veikot",
+    "leagues": "Miesten Ykköspesis",
     "lisatiedot": "",
     "details": ""
   },
@@ -2636,6 +2648,18 @@
     "from_club": "Seinäjoen Maila-Jussit",
     "to_club": "Koskenkorvan Urheilijat",
     "leagues": "Miesten Ykköspesis, Miesten suomensarja, Poikien Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
+    "date": "2.6.2026",
+    "player": "Saarinen Reino",
+    "status": "Hyväksytty",
+    "type": "Määräaikainen siirto",
+    "from_club": "Kouvolan Pallonlyöjät",
+    "to_club": "Ulvilan Pesä-Veikot",
+    "leagues": "Miesten Ykköspesis",
     "lisatiedot": "",
     "details": ""
   },
