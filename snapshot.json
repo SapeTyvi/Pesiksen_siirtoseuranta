@@ -1465,6 +1465,18 @@
   },
   {
     "table": 0,
+    "date": "2.6.2026",
+    "player": "Leskinen Mette",
+    "status": "Odottaa hyväksyntää",
+    "type": "Täyssiirto",
+    "from_club": "Pöytyän Urheilijat Pesäpallo",
+    "to_club": "Raksilan Likat, Oulu",
+    "leagues": "Naisten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "13.5.2026",
     "player": "Leskinen Mette",
     "status": "Hyväksytty",
@@ -3435,7 +3447,7 @@
     "table": 1,
     "date": "1.6.2026",
     "player": "Kauppinen Oskari",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Ylivieskan Kuula",
     "to_club": "Pattijoen Urheilijat, Raahe",
