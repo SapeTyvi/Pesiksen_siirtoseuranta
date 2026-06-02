@@ -41,7 +41,7 @@
     "target_type": "player",
     "target_team": "Simon Kiri",
     "type_name": "Varoitus (1 p.)",
-    "reason": null,
+    "reason": "Äänekäs asiaton kielenkäyttö",
     "when_happened": "2. jakso 4A",
     "has_decision": false,
     "processing_started": false,
