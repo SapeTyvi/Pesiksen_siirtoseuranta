@@ -16,6 +16,22 @@
     "processing_ended": false
   },
   {
+    "key": "130742|1783|Varoitus (1 p.)",
+    "date": "2026-06-03T18:00:00+03:00",
+    "series": "Naisten suomensarja",
+    "home": "Haapajärven Pesä-Kiilat",
+    "away": "Kannuksen Ura",
+    "target_name": "Esa Pikkukangas",
+    "target_type": "manager",
+    "target_team": "Kannuksen Ura",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "Kotiutuskilpailu 2A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129111|7584|Varoitus (1 p.)",
     "date": "2026-06-02T18:00:00+03:00",
     "series": "Naisten Superpesis",
