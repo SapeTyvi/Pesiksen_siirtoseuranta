@@ -3121,6 +3121,18 @@
   },
   {
     "table": 0,
+    "date": "3.6.2026",
+    "player": "Vahtolammi Viivi",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Manse PP Edustus, Tampere",
+    "to_club": "Lapuan Virkiä",
+    "leagues": "Naisten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "12.5.2026",
     "player": "Vahtolammi Viivi",
     "status": "Hyväksytty",
@@ -3559,6 +3571,18 @@
     "type": "Määräaikainen siirto",
     "from_club": "Kouvolan Pallonlyöjät",
     "to_club": "Ulvilan Pesä-Veikot",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
+    "date": "3.6.2026",
+    "player": "Peräaho Nuppu",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Kärsämäen Kataja",
+    "to_club": "Haapajärven Pesä-Kiilat",
     "leagues": "",
     "lisatiedot": "",
     "details": ""
