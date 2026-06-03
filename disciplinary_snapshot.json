@@ -1,5 +1,21 @@
 [
   {
+    "key": "128993|773|Varoitus (1 p.)",
+    "date": "2026-06-03T18:00:00+03:00",
+    "series": "Miesten Superpesis",
+    "home": "Kiteen Pallo",
+    "away": "Alajärven Ankkurit",
+    "target_name": "Mikko Vainionpää",
+    "target_type": "manager",
+    "target_team": "Alajärven Ankkurit",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Pitkittynyt protestointi",
+    "when_happened": "2. jakso 3A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129111|7584|Varoitus (1 p.)",
     "date": "2026-06-02T18:00:00+03:00",
     "series": "Naisten Superpesis",
