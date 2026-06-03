@@ -3123,7 +3123,7 @@
     "table": 0,
     "date": "3.6.2026",
     "player": "Vahtolammi Viivi",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Manse PP Edustus, Tampere",
     "to_club": "Lapuan Virkiä",
@@ -3476,7 +3476,7 @@
     "from_club": "Kannuksen Ura",
     "to_club": "Haapajärven Pesä-Kiilat",
     "leagues": "",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu3.6.2026 10:50",
     "details": ""
   },
   {
@@ -3579,7 +3579,7 @@
     "table": 1,
     "date": "3.6.2026",
     "player": "Peräaho Nuppu",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Kärsämäen Kataja",
     "to_club": "Haapajärven Pesä-Kiilat",
@@ -3596,7 +3596,7 @@
     "from_club": "Haapajärven Pesä-Kiilat",
     "to_club": "Haapajärven Pesä-Kiilat",
     "leagues": "",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu3.6.2026 10:53",
     "details": ""
   },
   {
