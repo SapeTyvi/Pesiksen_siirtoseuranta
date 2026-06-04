@@ -2005,6 +2005,18 @@
   },
   {
     "table": 0,
+    "date": "4.6.2026",
+    "player": "Näppä Aino",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Tyrnävän Tempaus",
+    "to_club": "Raksilan Likat, Oulu",
+    "leagues": "Naisten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "24.1.2026",
     "player": "Oleander Emmi",
     "status": "Hyväksytty",
@@ -3265,6 +3277,18 @@
   },
   {
     "table": 0,
+    "date": "4.6.2026",
+    "player": "Venäläinen Veeti",
+    "status": "Hyväksytty",
+    "type": "Määräaikainen siirto",
+    "from_club": "Pattijoen Urheilijat, Raahe",
+    "to_club": "Simon Kiri",
+    "leagues": "Miesten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "7.1.2026",
     "player": "Venäläinen Veeti",
     "status": "Hyväksytty",
@@ -3627,7 +3651,7 @@
     "table": 1,
     "date": "2.6.2026",
     "player": "Tuomi Aatu",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Hyvinkään Tahko",
     "to_club": "Pesäsudet Eura",
