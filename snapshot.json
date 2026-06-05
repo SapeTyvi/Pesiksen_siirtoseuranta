@@ -1597,6 +1597,18 @@
   },
   {
     "table": 0,
+    "date": "5.6.2026",
+    "player": "Markkula Lottaliina",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Ylivieskan Kuula",
+    "to_club": "Haapajärven Pesä-Kiilat",
+    "leagues": "Naisten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "30.1.2026",
     "player": "Martimo Salla",
     "status": "Hyväksytty",
@@ -3620,7 +3632,7 @@
     "from_club": "Kärsämäen Kataja",
     "to_club": "Haapajärven Pesä-Kiilat",
     "leagues": "",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu5.6.2026 20:57",
     "details": ""
   },
   {
