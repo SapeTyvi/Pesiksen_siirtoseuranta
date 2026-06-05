@@ -1,5 +1,37 @@
 [
   {
+    "key": "129606|9323|Varoitus (1 p.)",
+    "date": "2026-06-05T18:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Kankaanpään Maila",
+    "away": "Simon Kiri",
+    "target_name": "Eeli Uusitalo",
+    "target_type": "player",
+    "target_team": "Kankaanpään Maila",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 2A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "129606|10959|Varoitus (1 p.)",
+    "date": "2026-06-05T18:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Kankaanpään Maila",
+    "away": "Simon Kiri",
+    "target_name": "Juha Hannila",
+    "target_type": "player",
+    "target_team": "Simon Kiri",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 2A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "128993|773|Varoitus (1 p.)",
     "date": "2026-06-03T18:00:00+03:00",
     "series": "Miesten Superpesis",
