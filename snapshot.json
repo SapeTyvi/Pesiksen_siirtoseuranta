@@ -2007,7 +2007,7 @@
     "table": 0,
     "date": "4.6.2026",
     "player": "Näppä Aino",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Tyrnävän Tempaus",
     "to_club": "Raksilan Likat, Oulu",
@@ -2096,6 +2096,18 @@
     "from_club": "Jyväskylän Kirittäret",
     "to_club": "Kuusankosken Puhti",
     "leagues": "Naisten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
+    "date": "5.6.2026",
+    "player": "Pasi Santeri",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Imatran Pallo-Veikot",
+    "to_club": "Kankaanpään Maila",
+    "leagues": "Miesten Ykköspesis",
     "lisatiedot": "",
     "details": ""
   },
