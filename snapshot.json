@@ -853,6 +853,18 @@
   },
   {
     "table": 0,
+    "date": "6.6.2026",
+    "player": "Kemppainen Linda",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Raksilan Likat, Oulu",
+    "to_club": "Roihu, Helsinki",
+    "leagues": "Naisten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "30.1.2026",
     "player": "Kerola Petra",
     "status": "Hyväksytty",
