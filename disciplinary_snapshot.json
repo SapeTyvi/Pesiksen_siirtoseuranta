@@ -1,5 +1,37 @@
 [
   {
+    "key": "128891|1806|Varoitus (1 p.)",
+    "date": "2026-06-06T16:00:00+03:00",
+    "series": "Miesten Superpesis",
+    "home": "Koskenkorvan Urheilijat",
+    "away": "Joensuun Maila",
+    "target_name": "Janne Rauhala",
+    "target_type": "manager",
+    "target_team": "Koskenkorvan Urheilijat",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Pitkittynyt protestointi",
+    "when_happened": "1. jakso 3L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "128891|2448|Varoitus (1 p.)",
+    "date": "2026-06-06T16:00:00+03:00",
+    "series": "Miesten Superpesis",
+    "home": "Koskenkorvan Urheilijat",
+    "away": "Joensuun Maila",
+    "target_name": "Santeri Särkinen",
+    "target_type": "manager",
+    "target_team": "Koskenkorvan Urheilijat",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Toimihenkilön epäurheilijamaisuus",
+    "when_happened": "1. jakso 3L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129396|10116|Varoitus (1 p.)",
     "date": "2026-06-06T15:00:00+03:00",
     "series": "Naisten Ykköspesis",
