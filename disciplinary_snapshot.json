@@ -1,5 +1,21 @@
 [
   {
+    "key": "129607|8607|Varoitus (1 p.)",
+    "date": "2026-06-06T15:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Ulvilan Pesä-Veikot",
+    "away": "Simon Kiri",
+    "target_name": "Aleksi Hautala",
+    "target_type": "player",
+    "target_team": "Simon Kiri",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Pitkittynyt protestointi",
+    "when_happened": "1. jakso 3L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129604|1414|Varoitus (1 p.)",
     "date": "2026-06-05T18:00:00+03:00",
     "series": "Miesten Ykköspesis",
