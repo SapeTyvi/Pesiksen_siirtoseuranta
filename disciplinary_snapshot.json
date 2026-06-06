@@ -1,5 +1,37 @@
 [
   {
+    "key": "128980|2561|Varoitus (1 p.)",
+    "date": "2026-06-06T17:00:00+03:00",
+    "series": "Miesten Superpesis",
+    "home": "Imatran Pallo-Veikot",
+    "away": "Vimpelin Veto",
+    "target_name": "Jussi Parvi",
+    "target_type": "manager",
+    "target_team": "Vimpelin Veto",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Myöhästyminen toiselta jaksolta",
+    "when_happened": "2. jakso 1A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "129200|8496|Varoitus (1 p.)",
+    "date": "2026-06-06T17:00:00+03:00",
+    "series": "Naisten Superpesis",
+    "home": "Jyväskylän Kirittäret",
+    "away": "Fera, Rauma",
+    "target_name": "Petra Kerola",
+    "target_type": "player",
+    "target_team": "Fera, Rauma",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Näkyvä protestointi",
+    "when_happened": "2. jakso 1A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "128891|1806|Varoitus (1 p.)",
     "date": "2026-06-06T16:00:00+03:00",
     "series": "Miesten Superpesis",
