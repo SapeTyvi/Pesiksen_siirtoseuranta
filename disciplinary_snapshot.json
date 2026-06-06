@@ -1,5 +1,21 @@
 [
   {
+    "key": "129396|10116|Varoitus (1 p.)",
+    "date": "2026-06-06T15:00:00+03:00",
+    "series": "Naisten Ykköspesis",
+    "home": "Kuusankosken Puhti",
+    "away": "Pesäkarhut-Akatemia, Pori",
+    "target_name": "Alexandra Scheweleff",
+    "target_type": "player",
+    "target_team": "Pesäkarhut-Akatemia, Pori",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Äänekäs protestointi",
+    "when_happened": "2. jakso 3A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129607|8607|Varoitus (1 p.)",
     "date": "2026-06-06T15:00:00+03:00",
     "series": "Miesten Ykköspesis",
