@@ -855,7 +855,7 @@
     "table": 0,
     "date": "6.6.2026",
     "player": "Kemppainen Linda",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Raksilan Likat, Oulu",
     "to_club": "Roihu, Helsinki",
@@ -2245,6 +2245,18 @@
   },
   {
     "table": 0,
+    "date": "7.6.2026",
+    "player": "Piirainen Netta",
+    "status": "Hyväksytty",
+    "type": "Määräaikainen siirto",
+    "from_club": "Roihu, Helsinki",
+    "to_club": "Haminan Palloilijat",
+    "leagues": "Naisten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "16.5.2026",
     "player": "Piirainen Netta",
     "status": "Hyväksytty",
@@ -3537,6 +3549,18 @@
     "to_club": "Haapajärven Pesä-Kiilat",
     "leagues": "",
     "lisatiedot": "Siirto purettu3.6.2026 10:50",
+    "details": ""
+  },
+  {
+    "table": 1,
+    "date": "7.6.2026",
+    "player": "Kauppinen Oskari",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Ylivieskan Kuula",
+    "to_club": "Pattijoen Urheilijat, Raahe",
+    "leagues": "",
+    "lisatiedot": "",
     "details": ""
   },
   {
