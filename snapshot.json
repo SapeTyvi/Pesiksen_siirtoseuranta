@@ -1011,7 +1011,7 @@
     "table": 0,
     "date": "7.6.2026",
     "player": "Koivikko Sara",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Täyssiirto",
     "from_club": "Siilinjärven Pesis",
     "to_club": "Fera, Rauma",
@@ -2768,7 +2768,7 @@
     "from_club": "Humppilan Veikot",
     "to_club": "Pöytyän Urheilijat",
     "leagues": "Naisten Superpesis, C-tyttöjen SM-sarja",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu7.6.2026 17:43",
     "details": ""
   },
   {
@@ -3567,7 +3567,7 @@
     "table": 1,
     "date": "7.6.2026",
     "player": "Kauppinen Oskari",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Ylivieskan Kuula",
     "to_club": "Pattijoen Urheilijat, Raahe",
