@@ -1,5 +1,21 @@
 [
   {
+    "key": "130460|10222|Varoitus (1 p.)",
+    "date": "2026-06-07T18:00:00+03:00",
+    "series": "Miesten suomensarja",
+    "home": "Oulun Lippo Juniorit",
+    "away": "Napapiirin Pesis-Team, Rovaniemi",
+    "target_name": "Veeti Keskitalo",
+    "target_type": "player",
+    "target_team": "Napapiirin Pesis-Team, Rovaniemi",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Tahallinen estäminen",
+    "when_happened": "2. jakso 1L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "128980|2561|Varoitus (1 p.)",
     "date": "2026-06-06T17:00:00+03:00",
     "series": "Miesten Superpesis",
