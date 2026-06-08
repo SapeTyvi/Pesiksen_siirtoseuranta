@@ -1693,6 +1693,18 @@
   },
   {
     "table": 0,
+    "date": "8.6.2026",
+    "player": "Mononen Aino",
+    "status": "Odottaa hyväksyntää",
+    "type": "Täyssiirto",
+    "from_club": "Janakkalan Jana",
+    "to_club": "Viinijärven Urheilijat",
+    "leagues": "Naisten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "9.5.2026",
     "player": "Mononen Aino",
     "status": "Hyväksytty",
