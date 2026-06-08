@@ -1,5 +1,21 @@
 [
   {
+    "key": "130219|17182|Varoitus (1 p.)",
+    "date": "2026-06-08T18:00:00+03:00",
+    "series": "Poikien Superpesis",
+    "home": "Manse PP 1, Tampere",
+    "away": "Seinäjoen Maila-Jussit",
+    "target_name": "Aleksi Rantala",
+    "target_type": "player",
+    "target_team": "Seinäjoen Maila-Jussit",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 2A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "130460|10222|Varoitus (1 p.)",
     "date": "2026-06-07T18:00:00+03:00",
     "series": "Miesten suomensarja",
