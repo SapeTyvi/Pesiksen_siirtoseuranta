@@ -3133,6 +3133,18 @@
   },
   {
     "table": 0,
+    "date": "10.6.2026",
+    "player": "Tuohisaari Tuomas",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Laihian Luja",
+    "to_club": "Kankaanpään Maila",
+    "leagues": "Miesten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "23.12.2025",
     "player": "Tuononen Oona",
     "status": "Hyväksytty",
