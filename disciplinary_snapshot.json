@@ -736,6 +736,22 @@
     "processing_ended": false
   },
   {
+    "key": "130439|14692|Kurinpidon käsittelyssä",
+    "date": "2026-05-16T16:00:00+03:00",
+    "series": "Miesten suomensarja",
+    "home": "Napapiirin Pesis-Team, Rovaniemi",
+    "away": "Sotkamon Jymy Jaguars",
+    "target_name": "Samuli Larinen",
+    "target_type": "player",
+    "target_team": "Sotkamon Jymy Jaguars",
+    "type_name": "Kurinpidon käsittelyssä",
+    "reason": "Epäurheilijamaisuus ja eettisten periaatteiden rikkominen",
+    "when_happened": "Ottelun jälkeen",
+    "has_decision": true,
+    "processing_started": true,
+    "processing_ended": true
+  },
+  {
     "key": "130635|11208|Varoitus (1 p.)",
     "date": "2026-05-16T14:00:00+03:00",
     "series": "Miesten suomensarja",
