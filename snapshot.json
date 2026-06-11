@@ -2053,6 +2053,18 @@
   },
   {
     "table": 0,
+    "date": "11.6.2026",
+    "player": "Näppä Aino",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Tyrnävän Tempaus",
+    "to_club": "Raksilan Likat, Oulu",
+    "leagues": "Naisten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "4.6.2026",
     "player": "Näppä Aino",
     "status": "Hyväksytty",
@@ -3135,7 +3147,7 @@
     "table": 0,
     "date": "10.6.2026",
     "player": "Tuohisaari Tuomas",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Laihian Luja",
     "to_club": "Kankaanpään Maila",
@@ -3583,6 +3595,18 @@
     "type": "Määräaikainen siirto",
     "from_club": "Joensuun Maila",
     "to_club": "Pattijoen Urheilijat, Raahe",
+    "leagues": "",
+    "lisatiedot": "Siirto purettu11.6.2026 11:44",
+    "details": ""
+  },
+  {
+    "table": 1,
+    "date": "11.6.2026",
+    "player": "Huotari Pinja",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Oulun Lippo Juniorit",
+    "to_club": "Tyrnävän Tempaus",
     "leagues": "",
     "lisatiedot": "",
     "details": ""
