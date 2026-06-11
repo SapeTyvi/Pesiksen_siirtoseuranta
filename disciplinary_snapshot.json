@@ -1,5 +1,37 @@
 [
   {
+    "key": "130417|9980|Varoitus (1 p.)",
+    "date": "2026-06-11T18:00:00+03:00",
+    "series": "Miesten suomensarja",
+    "home": "Kempeleen Kiri",
+    "away": "Ylivieskan Kuula",
+    "target_name": "Rene Ruokojärvi",
+    "target_type": "player",
+    "target_team": "Ylivieskan Kuula",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "Kotiutuskilpailu 1A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "130558|10518|Varoitus (1 p.)",
+    "date": "2026-06-11T18:00:00+03:00",
+    "series": "Miesten suomensarja",
+    "home": "Laihian Luja",
+    "away": "Jalasjärven Jalas",
+    "target_name": "Joona Kujanpää",
+    "target_type": "manager",
+    "target_team": "Jalasjärven Jalas",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Äänekäs asiaton kielenkäyttö",
+    "when_happened": "1. jakso 3A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129184|9691|Varoitus (1 p.)",
     "date": "2026-06-10T18:00:00+03:00",
     "series": "Naisten Superpesis",
