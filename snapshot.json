@@ -2055,7 +2055,7 @@
     "table": 0,
     "date": "11.6.2026",
     "player": "Näppä Aino",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Tyrnävän Tempaus",
     "to_club": "Raksilan Likat, Oulu",
@@ -2108,7 +2108,7 @@
     "from_club": "Pesäkarhut, Pori",
     "to_club": "Laitilan Jyske",
     "leagues": "Naisten Superpesis",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu11.6.2026 22:45",
     "details": ""
   },
   {
