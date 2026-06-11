@@ -3603,7 +3603,7 @@
     "table": 1,
     "date": "11.6.2026",
     "player": "Huotari Pinja",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Oulun Lippo Juniorit",
     "to_club": "Tyrnävän Tempaus",
@@ -3681,6 +3681,18 @@
     "to_club": "Lapuan Virkiä",
     "leagues": "",
     "lisatiedot": "Siirto purettu23.5.2026 14:20",
+    "details": ""
+  },
+  {
+    "table": 1,
+    "date": "11.6.2026",
+    "player": "Lapinharju Matias",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Keravan Pesis-Juniorit",
+    "to_club": "Lahden Mailaveikot",
+    "leagues": "",
+    "lisatiedot": "",
     "details": ""
   },
   {
