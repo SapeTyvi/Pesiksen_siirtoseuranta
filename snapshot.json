@@ -2139,7 +2139,7 @@
     "table": 0,
     "date": "12.6.2026",
     "player": "Paatero Enni",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Pesäkarhut, Pori",
     "to_club": "Laitilan Jyske",
@@ -3656,7 +3656,7 @@
     "from_club": "Oulun Lippo Juniorit",
     "to_club": "Tyrnävän Tempaus",
     "leagues": "",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu12.6.2026 22:31",
     "details": ""
   },
   {
