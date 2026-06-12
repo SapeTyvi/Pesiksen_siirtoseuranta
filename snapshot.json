@@ -1009,6 +1009,18 @@
   },
   {
     "table": 0,
+    "date": "12.6.2026",
+    "player": "Koivikko Sara",
+    "status": "Hyväksytty",
+    "type": "Täyssiirto",
+    "from_club": "Fera, Rauma",
+    "to_club": "Haminan Palloilijat",
+    "leagues": "Naisten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "7.6.2026",
     "player": "Koivikko Sara",
     "status": "Hyväksytty",
@@ -2300,7 +2312,7 @@
     "from_club": "Roihu, Helsinki",
     "to_club": "Haminan Palloilijat",
     "leagues": "Naisten Ykköspesis",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu12.6.2026 11:50",
     "details": ""
   },
   {
