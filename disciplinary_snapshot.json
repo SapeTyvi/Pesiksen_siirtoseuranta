@@ -139,9 +139,9 @@
     "type_name": "Kurinpidon käsittelyssä",
     "reason": "Epäurheilijamaisuus",
     "when_happened": "Ottelun jälkeen",
-    "has_decision": false,
+    "has_decision": true,
     "processing_started": true,
-    "processing_ended": false
+    "processing_ended": true
   },
   {
     "key": "130222|15901|Varoitus (1 p.)",
