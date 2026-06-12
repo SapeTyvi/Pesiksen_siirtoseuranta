@@ -3661,6 +3661,18 @@
   },
   {
     "table": 1,
+    "date": "12.6.2026",
+    "player": "Kippola Elias",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Sotkamon Jymy",
+    "to_club": "Simon Kiri",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "21.5.2026",
     "player": "Kohonen Pyry",
     "status": "Hyväksytty",
