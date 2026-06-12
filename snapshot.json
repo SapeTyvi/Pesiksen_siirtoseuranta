@@ -349,6 +349,18 @@
   },
   {
     "table": 0,
+    "date": "12.6.2026",
+    "player": "Hanhisalo Timo",
+    "status": "Hyväksytty",
+    "type": "Määräaikainen siirto",
+    "from_club": "Ylivieskan Kuula",
+    "to_club": "Pattijoen Urheilijat, Raahe",
+    "leagues": "Miesten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "31.1.2026",
     "player": "Harju Mikael",
     "status": "Hyväksytty",
@@ -3675,7 +3687,7 @@
     "table": 1,
     "date": "12.6.2026",
     "player": "Kippola Elias",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Sotkamon Jymy",
     "to_club": "Simon Kiri",
