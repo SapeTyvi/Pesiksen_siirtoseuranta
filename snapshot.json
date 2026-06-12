@@ -2137,6 +2137,18 @@
   },
   {
     "table": 0,
+    "date": "12.6.2026",
+    "player": "Paatero Enni",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Pesäkarhut, Pori",
+    "to_club": "Laitilan Jyske",
+    "leagues": "Naisten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "22.5.2026",
     "player": "Paatero Enni",
     "status": "Hyväksytty",
@@ -3757,6 +3769,18 @@
   },
   {
     "table": 1,
+    "date": "12.6.2026",
+    "player": "Lehtiranta Emmi",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Vihdin Pallo",
+    "to_club": "Humppilan Veikot",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "14.5.2026",
     "player": "Liikala Johannes",
     "status": "Hyväksytty",
@@ -3823,6 +3847,18 @@
     "type": "Määräaikainen siirto",
     "from_club": "Laihian Luja",
     "to_club": "Koskenkorvan Urheilijat",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
+    "date": "12.6.2026",
+    "player": "Rusthollkarhu Ringa",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Vihdin Pallo",
+    "to_club": "Humppilan Veikot",
     "leagues": "",
     "lisatiedot": "",
     "details": ""
