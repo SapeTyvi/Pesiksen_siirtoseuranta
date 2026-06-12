@@ -1537,6 +1537,18 @@
   },
   {
     "table": 0,
+    "date": "12.6.2026",
+    "player": "Lindroos Lotta",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Laitilan Jyske",
+    "to_club": "Ikaalisten Tarmo",
+    "leagues": "Naisten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "31.1.2026",
     "player": "Lindén Minea",
     "status": "Hyväksytty",
@@ -3687,7 +3699,7 @@
     "table": 1,
     "date": "11.6.2026",
     "player": "Lapinharju Matias",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Keravan Pesis-Juniorit",
     "to_club": "Lahden Mailaveikot",
