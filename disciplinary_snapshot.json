@@ -1,5 +1,37 @@
 [
   {
+    "key": "130186|1118|Varoitus (1 p.)",
+    "date": "2026-06-12T18:00:00+03:00",
+    "series": "Poikien Superpesis",
+    "home": "Hyvinkään Tahko",
+    "away": "Alajärven Ankkurit",
+    "target_name": "Juuso Kerola",
+    "target_type": "manager",
+    "target_team": "Hyvinkään Tahko",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "1. jakso 2A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "130186|14058|Varoitus (1 p.)",
+    "date": "2026-06-12T18:00:00+03:00",
+    "series": "Poikien Superpesis",
+    "home": "Hyvinkään Tahko",
+    "away": "Alajärven Ankkurit",
+    "target_name": "Paavo Lehto",
+    "target_type": "player",
+    "target_team": "Hyvinkään Tahko",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Pitkittynyt protestointi",
+    "when_happened": "1. jakso 4L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "130417|9980|Varoitus (1 p.)",
     "date": "2026-06-11T18:00:00+03:00",
     "series": "Miesten suomensarja",
