@@ -3121,6 +3121,18 @@
   },
   {
     "table": 0,
+    "date": "13.6.2026",
+    "player": "Toikka Veera",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Joensuun Maila",
+    "to_club": "Fera, Rauma",
+    "leagues": "Naisten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "29.1.2026",
     "player": "Tolonen Riku",
     "status": "Hyväksytty",
@@ -3716,7 +3728,7 @@
     "from_club": "Sotkamon Jymy",
     "to_club": "Kempeleen Kiri",
     "leagues": "",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu13.6.2026 11:43",
     "details": ""
   },
   {
