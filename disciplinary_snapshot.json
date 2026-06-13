@@ -1,5 +1,21 @@
 [
   {
+    "key": "129617|8771|Varoitus (1 p.)",
+    "date": "2026-06-13T17:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Puna-Mustat, Helsinki",
+    "away": "Jyväskylän Kiri",
+    "target_name": "Leevi Lehto",
+    "target_type": "player",
+    "target_team": "Puna-Mustat, Helsinki",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "Kotiutuskilpailu 1L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "130186|1118|Varoitus (1 p.)",
     "date": "2026-06-12T18:00:00+03:00",
     "series": "Poikien Superpesis",
