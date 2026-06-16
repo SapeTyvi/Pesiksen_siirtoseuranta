@@ -1,5 +1,37 @@
 [
   {
+    "key": "130399|8313|Varoitus (1 p.)",
+    "date": "2026-06-16T18:00:00+03:00",
+    "series": "Miesten suomensarja",
+    "home": "Haapajärven Pesä-Kiilat",
+    "away": "Muhoksen Pallo-Salamat",
+    "target_name": "Antti Väänänen",
+    "target_type": "player",
+    "target_team": "Muhoksen Pallo-Salamat",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 4L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "130559|6918|Varoitus (1 p.)",
+    "date": "2026-06-16T18:00:00+03:00",
+    "series": "Miesten suomensarja",
+    "home": "Nurmon Jymy 2",
+    "away": "Jalasjärven Jalas",
+    "target_name": "Antti Nurmela",
+    "target_type": "player",
+    "target_team": "Jalasjärven Jalas",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Näkyvä protestointi",
+    "when_happened": "2. jakso 3A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "128990|9081|Varoitus (1 p.)",
     "date": "2026-06-14T17:00:00+03:00",
     "series": "Miesten Superpesis",
