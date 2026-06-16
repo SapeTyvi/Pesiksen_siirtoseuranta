@@ -16,6 +16,22 @@
     "processing_ended": false
   },
   {
+    "key": "128990|7576|Varoitus (1 p.)",
+    "date": "2026-06-14T17:00:00+03:00",
+    "series": "Miesten Superpesis",
+    "home": "Kempeleen Kiri",
+    "away": "Imatran Pallo-Veikot",
+    "target_name": "Markus Keski-Petäjä",
+    "target_type": "player",
+    "target_team": "Kempeleen Kiri",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Pitkittynyt protestointi",
+    "when_happened": "1. jakso 4L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129617|8771|Varoitus (1 p.)",
     "date": "2026-06-13T17:00:00+03:00",
     "series": "Miesten Ykköspesis",
