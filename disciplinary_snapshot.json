@@ -32,6 +32,22 @@
     "processing_ended": false
   },
   {
+    "key": "130731|6378|Varoitus (1 p.)",
+    "date": "2026-06-16T18:00:00+03:00",
+    "series": "Naisten suomensarja",
+    "home": "Sotkamon Jymy",
+    "away": "Simon Kiri",
+    "target_name": "Ville Vakkala",
+    "target_type": "manager",
+    "target_team": "Simon Kiri",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Äänekäs protestointi",
+    "when_happened": "2. jakso 4L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "128990|9081|Varoitus (1 p.)",
     "date": "2026-06-14T17:00:00+03:00",
     "series": "Miesten Superpesis",
