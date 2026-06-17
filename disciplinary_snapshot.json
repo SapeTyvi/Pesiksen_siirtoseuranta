@@ -1,5 +1,37 @@
 [
   {
+    "key": "130578|10881|Varoitus (1 p.)",
+    "date": "2026-06-17T18:00:00+03:00",
+    "series": "Miesten suomensarja",
+    "home": "Alavuden Peli-Veikot",
+    "away": "Vaasan Maila",
+    "target_name": "Lauri Viita",
+    "target_type": "player",
+    "target_team": "Alavuden Peli-Veikot",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 2L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "130960|11512|Varoitus (1 p.)",
+    "date": "2026-06-17T18:00:00+03:00",
+    "series": "Naisten suomensarja",
+    "home": "Eurajoen Veikot",
+    "away": "Ulvilan Pesä-Veikot",
+    "target_name": "Elsa  Koskinen",
+    "target_type": "player",
+    "target_team": "Ulvilan Pesä-Veikot",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Äänekäs asiaton kielenkäyttö",
+    "when_happened": "2. jakso 3L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "130399|8313|Varoitus (1 p.)",
     "date": "2026-06-16T18:00:00+03:00",
     "series": "Miesten suomensarja",
