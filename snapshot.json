@@ -3841,6 +3841,18 @@
   },
   {
     "table": 1,
+    "date": "17.6.2026",
+    "player": "Penttilä Eero",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Laihian Luja",
+    "to_club": "Koskenkorvan Urheilijat",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "3.6.2026",
     "player": "Peräaho Nuppu",
     "status": "Hyväksytty",
@@ -3867,7 +3879,7 @@
     "table": 1,
     "date": "17.6.2026",
     "player": "Rauhala Aleksi",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Laihian Luja",
     "to_club": "Koskenkorvan Urheilijat",
