@@ -1,5 +1,37 @@
 [
   {
+    "key": "130194|15906|Varoitus (1 p.)",
+    "date": "2026-06-22T18:00:00+03:00",
+    "series": "Poikien Superpesis",
+    "home": "Imatran Pallo-Veikot",
+    "away": "Alajärven Ankkurit",
+    "target_name": "Tatu Hämeenkorpi",
+    "target_type": "player",
+    "target_team": "Alajärven Ankkurit",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "Kotiutuskilpailu 1L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "130208|15542|Varoitus (1 p.)",
+    "date": "2026-06-22T18:00:00+03:00",
+    "series": "Poikien Superpesis",
+    "home": "Kouvolan Pallonlyöjät",
+    "away": "Hyvinkään Tahko",
+    "target_name": "Otto Viinamäki",
+    "target_type": "player",
+    "target_team": "Kouvolan Pallonlyöjät",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Provosointi",
+    "when_happened": "2. jakso 4L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "130578|10881|Varoitus (1 p.)",
     "date": "2026-06-17T18:00:00+03:00",
     "series": "Miesten suomensarja",
