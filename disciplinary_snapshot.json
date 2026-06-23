@@ -1,5 +1,37 @@
 [
   {
+    "key": "129625|11720|Varoitus (1 p.)",
+    "date": "2026-06-23T18:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Kankaanpään Maila",
+    "away": "Haminan Palloilijat",
+    "target_name": "Jali Hyttinen",
+    "target_type": "player",
+    "target_team": "Kankaanpään Maila",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Näkyvä protestointi",
+    "when_happened": "1. jakso 4A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "129626|4902|Varoitus (1 p.)",
+    "date": "2026-06-23T18:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Nurmon Jymy",
+    "away": "Puna-Mustat, Helsinki",
+    "target_name": "Antti Piuhola",
+    "target_type": "manager",
+    "target_team": "Nurmon Jymy",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Toimihenkilön epäurheilijamaisuus",
+    "when_happened": "1. jakso 3A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "130194|15906|Varoitus (1 p.)",
     "date": "2026-06-22T18:00:00+03:00",
     "series": "Poikien Superpesis",
