@@ -3649,6 +3649,18 @@
   },
   {
     "table": 1,
+    "date": "23.6.2026",
+    "player": "Heikkilä Annastiina",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Manse PP, Tampere",
+    "to_club": "Ikaalisten Tarmo",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "15.5.2026",
     "player": "Heikkilä Annastiina",
     "status": "Hyväksytty",
@@ -3843,7 +3855,7 @@
     "table": 1,
     "date": "17.6.2026",
     "player": "Penttilä Eero",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Laihian Luja",
     "to_club": "Koskenkorvan Urheilijat",
