@@ -1,5 +1,21 @@
 [
   {
+    "key": "129341|12585|Varoitus (1 p.)",
+    "date": "2026-06-24T18:00:00+03:00",
+    "series": "Naisten Ykköspesis",
+    "home": "Haapajärven Pesä-Kiilat",
+    "away": "Kajaanin Pallokerho",
+    "target_name": "Laura Pulkkinen",
+    "target_type": "player",
+    "target_team": "Haapajärven Pesä-Kiilat",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Pitkittynyt protestointi",
+    "when_happened": "2. jakso 2A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129625|11720|Varoitus (1 p.)",
     "date": "2026-06-23T18:00:00+03:00",
     "series": "Miesten Ykköspesis",
