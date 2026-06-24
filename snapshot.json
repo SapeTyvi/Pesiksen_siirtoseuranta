@@ -3651,7 +3651,7 @@
     "table": 1,
     "date": "23.6.2026",
     "player": "Heikkilä Annastiina",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Manse PP, Tampere",
     "to_club": "Ikaalisten Tarmo",
@@ -3967,6 +3967,18 @@
     "type": "Määräaikainen siirto",
     "from_club": "Keravan Pesis-Juniorit",
     "to_club": "Lahden Mailaveikot",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
+    "date": "24.6.2026",
+    "player": "Valli Akseli",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Laihian Luja",
+    "to_club": "Kauhajoen Karhu",
     "leagues": "",
     "lisatiedot": "",
     "details": ""
