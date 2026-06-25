@@ -337,6 +337,18 @@
   },
   {
     "table": 0,
+    "date": "25.6.2026",
+    "player": "Halttunen Niko",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Kiteen Pallo -90",
+    "to_club": "Siilinjärven Pesis",
+    "leagues": "Miesten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "22.1.2026",
     "player": "Hangasmaa Miika",
     "status": "Hyväksytty",
