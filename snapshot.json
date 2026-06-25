@@ -3625,6 +3625,18 @@
   },
   {
     "table": 1,
+    "date": "25.6.2026",
+    "player": "Ala-Sulkava Moona",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Ähtärin Urheilijat",
+    "to_club": "Lavepesis, Lappajärvi",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "22.5.2026",
     "player": "Hautakoski Emma",
     "status": "Hyväksytty",
