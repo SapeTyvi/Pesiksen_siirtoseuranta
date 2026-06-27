@@ -16,6 +16,22 @@
     "processing_ended": false
   },
   {
+    "key": "129310|10070|Varoitus (1 p.)",
+    "date": "2026-06-26T18:00:00+03:00",
+    "series": "Naisten Ykköspesis",
+    "home": "Pesä Ysit, Lappeenranta",
+    "away": "Lavepesis, Lappajärvi",
+    "target_name": "Aino Kesti",
+    "target_type": "player",
+    "target_team": "Lavepesis, Lappajärvi",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Pompusta lyönti",
+    "when_happened": "2. jakso 2A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129630|6515|Varoitus (1 p.)",
     "date": "2026-06-26T18:00:00+03:00",
     "series": "Miesten Ykköspesis",
