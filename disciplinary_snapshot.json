@@ -1,5 +1,21 @@
 [
   {
+    "key": "130605|14059|Varoitus (1 p.)",
+    "date": "2026-06-27T13:00:00+03:00",
+    "series": "Miesten suomensarja",
+    "home": "Hyvinkään Tahko",
+    "away": "Keravan Pesis-Juniorit",
+    "target_name": "Veeti Saarimaa",
+    "target_type": "player",
+    "target_team": "Hyvinkään Tahko",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Äänekäs protestointi",
+    "when_happened": "2. jakso 1L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129630|6515|Varoitus (1 p.)",
     "date": "2026-06-26T18:00:00+03:00",
     "series": "Miesten Ykköspesis",
