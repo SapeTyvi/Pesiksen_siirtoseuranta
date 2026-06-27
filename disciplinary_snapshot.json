@@ -1,5 +1,21 @@
 [
   {
+    "key": "130671|9766|Varoitus (1 p.)",
+    "date": "2026-06-27T16:00:00+03:00",
+    "series": "Miesten suomensarja",
+    "home": "Jokioisten Koetus",
+    "away": "Loimaan Palloilijat",
+    "target_name": "Aale Junkkarinen",
+    "target_type": "player",
+    "target_team": "Jokioisten Koetus",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "Kotiutuskilpailu 1L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "130605|14059|Varoitus (1 p.)",
     "date": "2026-06-27T13:00:00+03:00",
     "series": "Miesten suomensarja",
