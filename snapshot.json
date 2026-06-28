@@ -423,6 +423,18 @@
     "table": 0,
     "date": "26.6.2026",
     "player": "Heikkilä Aada",
+    "status": "Hyväksytty",
+    "type": "Määräaikainen siirto",
+    "from_club": "Roihu, Helsinki",
+    "to_club": "Pesäkarhut, Pori",
+    "leagues": "Naisten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
+    "date": "26.6.2026",
+    "player": "Heikkilä Aada",
     "status": "Odottaa hyväksyntää",
     "type": "Täyssiirto",
     "from_club": "Roihu, Helsinki",
@@ -3656,7 +3668,7 @@
     "from_club": "Ähtärin Urheilijat",
     "to_club": "Lavepesis, Lappajärvi",
     "leagues": "",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu28.6.2026 15:56",
     "details": ""
   },
   {
