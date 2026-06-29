@@ -1,5 +1,21 @@
 [
   {
+    "key": "131138|13781|Varoitus (1 p.)",
+    "date": "2026-06-29T18:00:00+03:00",
+    "series": "Poikien Superpesis",
+    "home": "Kempeleen Kiri",
+    "away": "Joensuun Maila 1",
+    "target_name": "Aaro Ojanperä",
+    "target_type": "player",
+    "target_team": "Kempeleen Kiri",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "1. jakso 4L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "130671|9766|Varoitus (1 p.)",
     "date": "2026-06-27T16:00:00+03:00",
     "series": "Miesten suomensarja",
