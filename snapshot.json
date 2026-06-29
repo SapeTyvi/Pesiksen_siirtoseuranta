@@ -2125,6 +2125,18 @@
   },
   {
     "table": 0,
+    "date": "29.6.2026",
+    "player": "Näppä Aino",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Tyrnävän Tempaus",
+    "to_club": "Raksilan Likat, Oulu",
+    "leagues": "Naisten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "11.6.2026",
     "player": "Näppä Aino",
     "status": "Hyväksytty",
