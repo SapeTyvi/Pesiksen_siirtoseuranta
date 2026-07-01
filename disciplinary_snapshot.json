@@ -48,6 +48,22 @@
     "processing_ended": false
   },
   {
+    "key": "131052|16914|Varoitus (1 p.)",
+    "date": "2026-07-01T18:00:00+03:00",
+    "series": "Naisten suomensarja",
+    "home": "Espoon Pesis 2",
+    "away": "Haminan Palloilijat",
+    "target_name": "Janni Anttila",
+    "target_type": "player",
+    "target_team": "Haminan Palloilijat",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Äänekäs asiaton kielenkäyttö",
+    "when_happened": "Kotiutuskilpailu 2A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "128986|640|Varoitus (1 p.)",
     "date": "2026-06-30T18:00:00+03:00",
     "series": "Miesten Superpesis",
