@@ -3860,7 +3860,7 @@
     "from_club": "Keravan Pesis-Juniorit",
     "to_club": "Lahden Mailaveikot",
     "leagues": "",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu1.7.2026 10:19",
     "details": ""
   },
   {
@@ -3872,7 +3872,7 @@
     "from_club": "Keravan Pesis-Juniorit",
     "to_club": "Lahden Mailaveikot",
     "leagues": "",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu1.7.2026 10:19",
     "details": ""
   },
   {
@@ -3896,7 +3896,7 @@
     "from_club": "Koskenkorvan Urheilijat",
     "to_club": "Alavuden Peli-Veikot",
     "leagues": "",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu1.7.2026 10:19",
     "details": ""
   },
   {
@@ -3908,7 +3908,7 @@
     "from_club": "Koskenkorvan Urheilijat",
     "to_club": "Alavuden Peli-Veikot",
     "leagues": "",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu1.7.2026 10:19",
     "details": ""
   },
   {
@@ -3943,6 +3943,18 @@
     "type": "Määräaikainen siirto",
     "from_club": "Laihian Luja",
     "to_club": "Koskenkorvan Urheilijat",
+    "leagues": "",
+    "lisatiedot": "Siirto purettu1.7.2026 10:19",
+    "details": ""
+  },
+  {
+    "table": 1,
+    "date": "1.7.2026",
+    "player": "Peräaho Nuppu",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Kärsämäen Kataja",
+    "to_club": "Haapajärven Pesä-Kiilat",
     "leagues": "",
     "lisatiedot": "",
     "details": ""
@@ -3980,7 +3992,7 @@
     "from_club": "Laihian Luja",
     "to_club": "Koskenkorvan Urheilijat",
     "leagues": "",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu1.7.2026 10:19",
     "details": ""
   },
   {
@@ -3992,7 +4004,7 @@
     "from_club": "Laihian Luja",
     "to_club": "Koskenkorvan Urheilijat",
     "leagues": "",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu1.7.2026 10:19",
     "details": ""
   },
   {
@@ -4052,7 +4064,7 @@
     "from_club": "Keravan Pesis-Juniorit",
     "to_club": "Lahden Mailaveikot",
     "leagues": "",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu1.7.2026 10:19",
     "details": ""
   },
   {
