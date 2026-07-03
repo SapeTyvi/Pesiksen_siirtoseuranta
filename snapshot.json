@@ -637,6 +637,18 @@
   },
   {
     "table": 0,
+    "date": "3.7.2026",
+    "player": "Huotari Pinja",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Oulun Lippo Juniorit",
+    "to_club": "Tyrnävän Tempaus",
+    "leagues": "Naisten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "22.12.2025",
     "player": "Huusko Kalle-Tapio",
     "status": "Hyväksytty",
