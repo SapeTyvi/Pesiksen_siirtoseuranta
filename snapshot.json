@@ -639,7 +639,7 @@
     "table": 0,
     "date": "3.7.2026",
     "player": "Huotari Pinja",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Oulun Lippo Juniorit",
     "to_club": "Tyrnävän Tempaus",
@@ -4088,7 +4088,7 @@
     "from_club": "Laihian Luja",
     "to_club": "Kauhajoen Karhu",
     "leagues": "",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu4.7.2026 17:00",
     "details": ""
   }
 ]
