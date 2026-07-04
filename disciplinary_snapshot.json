@@ -1,5 +1,21 @@
 [
   {
+    "key": "130753|12362|Varoitus (1 p.)",
+    "date": "2026-07-04T17:00:00+03:00",
+    "series": "Naisten suomensarja",
+    "home": "Joensuun Maila",
+    "away": "Nivala Pesis",
+    "target_name": "Janica Salmela",
+    "target_type": "player",
+    "target_team": "Nivala Pesis",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Tahallinen kahdesti pallon lyöminen",
+    "when_happened": "2. jakso 3L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129642|12903|Varoitus (1 p.)",
     "date": "2026-07-04T15:10:00+03:00",
     "series": "Miesten Ykköspesis",
