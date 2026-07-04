@@ -1,5 +1,37 @@
 [
   {
+    "key": "129642|12903|Varoitus (1 p.)",
+    "date": "2026-07-04T15:10:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Ulvilan Pesä-Veikot",
+    "away": "Kankaanpään Maila",
+    "target_name": "Tiitu Uusitalo",
+    "target_type": "player",
+    "target_team": "Kankaanpään Maila",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Provosointi",
+    "when_happened": "2. jakso 2A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "129642|14058|Varoitus (1 p.)",
+    "date": "2026-07-04T15:10:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Ulvilan Pesä-Veikot",
+    "away": "Kankaanpään Maila",
+    "target_name": "Paavo Lehto",
+    "target_type": "player",
+    "target_team": "Ulvilan Pesä-Veikot",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 2A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129307|3684|Varoitus (1 p.)",
     "date": "2026-07-03T18:00:00+03:00",
     "series": "Naisten Ykköspesis",
