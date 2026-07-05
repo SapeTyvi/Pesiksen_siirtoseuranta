@@ -1,5 +1,21 @@
 [
   {
+    "key": "130434|8581|Varoitus (1 p.)",
+    "date": "2026-07-05T13:00:00+03:00",
+    "series": "Miesten suomensarja",
+    "home": "Muhoksen Pallo-Salamat",
+    "away": "Sotkamon Jymy Jaguars",
+    "target_name": "Santeri Pulkkinen",
+    "target_type": "player",
+    "target_team": "Muhoksen Pallo-Salamat",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 3L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "130753|12362|Varoitus (1 p.)",
     "date": "2026-07-04T17:00:00+03:00",
     "series": "Naisten suomensarja",
