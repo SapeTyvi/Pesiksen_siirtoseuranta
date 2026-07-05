@@ -336,6 +336,22 @@
     "processing_ended": false
   },
   {
+    "key": "129626|1227|Kurinpidon käsittelyssä",
+    "date": "2026-06-23T18:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Nurmon Jymy",
+    "away": "Puna-Mustat, Helsinki",
+    "target_name": "Antti Tokkari",
+    "target_type": "manager",
+    "target_team": "Nurmon Jymy",
+    "type_name": "Kurinpidon käsittelyssä",
+    "reason": "Henkilöön kohdistunut törkeä epäurheilijamaisuus",
+    "when_happened": "1. jakso 3A",
+    "has_decision": true,
+    "processing_started": true,
+    "processing_ended": true
+  },
+  {
     "key": "130194|15906|Varoitus (1 p.)",
     "date": "2026-06-22T18:00:00+03:00",
     "series": "Poikien Superpesis",
