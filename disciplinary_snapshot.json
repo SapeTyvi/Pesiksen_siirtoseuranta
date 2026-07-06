@@ -1,5 +1,37 @@
 [
   {
+    "key": "129131|9035|Varoitus (1 p.)",
+    "date": "2026-07-06T18:00:00+03:00",
+    "series": "Naisten Superpesis",
+    "home": "Roihuttaret, Helsinki",
+    "away": "Jussittaret, Seinäjoki",
+    "target_name": "Liinu Turpela",
+    "target_type": "player",
+    "target_team": "Jussittaret, Seinäjoki",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 1L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "131167|5695|Varoitus (1 p.)",
+    "date": "2026-07-06T18:00:00+03:00",
+    "series": "Poikien Superpesis",
+    "home": "Puijon Pesis, Kuopio",
+    "away": "Oulun Lippo Juniorit",
+    "target_name": "Miko Inola",
+    "target_type": "manager",
+    "target_team": "Puijon Pesis, Kuopio",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Äänekäs asiaton kielenkäyttö",
+    "when_happened": "1. jakso 3A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "130434|8581|Varoitus (1 p.)",
     "date": "2026-07-05T13:00:00+03:00",
     "series": "Miesten suomensarja",
