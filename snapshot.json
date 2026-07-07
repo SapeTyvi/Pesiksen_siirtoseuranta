@@ -3949,6 +3949,18 @@
   },
   {
     "table": 1,
+    "date": "7.7.2026",
+    "player": "Penttilä Eero",
+    "status": "Hyväksytty",
+    "type": "Määräaikainen siirto",
+    "from_club": "Laihian Luja",
+    "to_club": "Koskenkorvan Urheilijat",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "17.6.2026",
     "player": "Penttilä Eero",
     "status": "Hyväksytty",
