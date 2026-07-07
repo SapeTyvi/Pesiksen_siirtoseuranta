@@ -4081,6 +4081,18 @@
   },
   {
     "table": 1,
+    "date": "7.7.2026",
+    "player": "Valli Akseli",
+    "status": "Hyväksytty",
+    "type": "Määräaikainen siirto",
+    "from_club": "Laihian Luja",
+    "to_club": "Kauhajoen Karhu",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "24.6.2026",
     "player": "Valli Akseli",
     "status": "Hyväksytty",
