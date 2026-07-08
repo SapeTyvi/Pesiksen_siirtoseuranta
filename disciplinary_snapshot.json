@@ -1,5 +1,37 @@
 [
   {
+    "key": "129383|16976|Varoitus (1 p.)",
+    "date": "2026-07-08T18:00:00+03:00",
+    "series": "Naisten Ykköspesis",
+    "home": "Mynämäen Vesa",
+    "away": "Ikaalisten Tarmo",
+    "target_name": "Aino Kaurahalme",
+    "target_type": "player",
+    "target_team": "Ikaalisten Tarmo",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "1. jakso 3L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "129649|12018|Varoitus (1 p.)",
+    "date": "2026-07-08T18:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Seinäjoen Maila-Jussit",
+    "away": "Puijon Pesis, Kuopio",
+    "target_name": "Miika Mäkelä",
+    "target_type": "player",
+    "target_team": "Seinäjoen Maila-Jussit",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Luvaton kentälletulo",
+    "when_happened": "1. jakso 1A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129153|11023|Varoitus (1 p.)",
     "date": "2026-07-07T18:00:00+03:00",
     "series": "Naisten Superpesis",
