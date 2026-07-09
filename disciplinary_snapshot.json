@@ -128,6 +128,22 @@
     "processing_ended": false
   },
   {
+    "key": "129644|5898|Kurinpidon käsittelyssä",
+    "date": "2026-07-04T17:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Simon Kiri",
+    "away": "Puna-Mustat, Helsinki",
+    "target_name": "Antti Väistö",
+    "target_type": "manager",
+    "target_team": "Puna-Mustat, Helsinki",
+    "type_name": "Kurinpidon käsittelyssä",
+    "reason": "Huoltajan syrjivä epäasiallinen käyttäytyminen",
+    "when_happened": "",
+    "has_decision": true,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "130753|12362|Varoitus (1 p.)",
     "date": "2026-07-04T17:00:00+03:00",
     "series": "Naisten suomensarja",
