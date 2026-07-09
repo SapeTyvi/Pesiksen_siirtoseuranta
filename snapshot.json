@@ -2881,6 +2881,18 @@
   },
   {
     "table": 0,
+    "date": "9.7.2026",
+    "player": "Salmela Oskari",
+    "status": "Odottaa hyväksyntää",
+    "type": "Täyssiirto",
+    "from_club": "Jyväskylän Kiri 2020",
+    "to_club": "Kankaanpään Maila",
+    "leagues": "Miesten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "7.4.2026",
     "player": "Salmela Santeri",
     "status": "Hyväksytty",
