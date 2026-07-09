@@ -138,10 +138,10 @@
     "target_team": "Puna-Mustat, Helsinki",
     "type_name": "Kurinpidon käsittelyssä",
     "reason": "Huoltajan syrjivä epäasiallinen käyttäytyminen",
-    "when_happened": "",
+    "when_happened": "1. jakso",
     "has_decision": true,
-    "processing_started": false,
-    "processing_ended": false
+    "processing_started": true,
+    "processing_ended": true
   },
   {
     "key": "130753|12362|Varoitus (1 p.)",
