@@ -3709,6 +3709,18 @@
   },
   {
     "table": 1,
+    "date": "11.7.2026",
+    "player": "Hautakoski Emma",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Lappajärven Veikot",
+    "to_club": "Lavepesis, Lappajärvi",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "22.5.2026",
     "player": "Hautakoski Emma",
     "status": "Hyväksytty",
