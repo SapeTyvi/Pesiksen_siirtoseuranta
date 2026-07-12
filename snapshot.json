@@ -3925,6 +3925,18 @@
   },
   {
     "table": 1,
+    "date": "12.7.2026",
+    "player": "Lepomäki Eemil",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Pesäkarhut, Pori",
+    "to_club": "Pesäsudet Eura",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "14.5.2026",
     "player": "Liikala Johannes",
     "status": "Hyväksytty",
