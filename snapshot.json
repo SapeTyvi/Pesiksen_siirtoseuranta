@@ -3817,6 +3817,18 @@
   },
   {
     "table": 1,
+    "date": "12.7.2026",
+    "player": "Hyttinen Jali",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Kouvolan Pallonlyöjät",
+    "to_club": "Alajärven Ankkuritpesis",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "7.6.2026",
     "player": "Kauppinen Oskari",
     "status": "Hyväksytty",
