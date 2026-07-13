@@ -1,5 +1,21 @@
 [
   {
+    "key": "130175|13761|Pelirangaistus (1 p.)",
+    "date": "2026-07-13T18:00:00+03:00",
+    "series": "Poikien Superpesis",
+    "home": "Alajärven Ankkurit",
+    "away": "Seinäjoen Maila-Jussit",
+    "target_name": "Miiro Viinamäki",
+    "target_type": "player",
+    "target_team": "Alajärven Ankkurit",
+    "type_name": "Pelirangaistus (1 p.)",
+    "reason": "Törkeä epäasiallinen kielenkäyttö",
+    "when_happened": "1. jakso 3L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "130317|901|Varoitus (1 p.)",
     "date": "2026-07-12T15:00:00+03:00",
     "series": "Miesten suomensarja",
