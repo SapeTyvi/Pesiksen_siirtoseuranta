@@ -3745,6 +3745,18 @@
   },
   {
     "table": 1,
+    "date": "14.7.2026",
+    "player": "Hallikainen Niko",
+    "status": "Hyväksytty",
+    "type": "Määräaikainen siirto",
+    "from_club": "Kouvolan Pallonlyöjät",
+    "to_club": "Haminan Palloilijat",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "11.7.2026",
     "player": "Hautakoski Emma",
     "status": "Hyväksytty",
