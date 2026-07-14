@@ -961,6 +961,18 @@
   },
   {
     "table": 0,
+    "date": "14.7.2026",
+    "player": "Kesäläinen Aksel",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Puna-Mustat, Helsinki",
+    "to_club": "Ulvilan Pesä-Veikot",
+    "leagues": "Miesten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "30.11.2025",
     "player": "Kiikka Ronja",
     "status": "Hyväksytty",
