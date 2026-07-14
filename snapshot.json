@@ -457,6 +457,18 @@
   },
   {
     "table": 0,
+    "date": "14.7.2026",
+    "player": "Heikkilä Annastiina",
+    "status": "Hyväksytty",
+    "type": "Määräaikainen siirto",
+    "from_club": "Manse PP, Tampere",
+    "to_club": "Ikaalisten Tarmo",
+    "leagues": "Naisten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "29.12.2025",
     "player": "Heikkilä Mira",
     "status": "Hyväksytty",
@@ -963,7 +975,7 @@
     "table": 0,
     "date": "14.7.2026",
     "player": "Kesäläinen Aksel",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Puna-Mustat, Helsinki",
     "to_club": "Ulvilan Pesä-Veikot",
