@@ -2125,6 +2125,18 @@
   },
   {
     "table": 0,
+    "date": "15.7.2026",
+    "player": "Niskala Artturi",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Sotkamon Jymy",
+    "to_club": "Imatran Pallo-Veikot",
+    "leagues": "Miesten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "8.1.2026",
     "player": "Niskanen Luukas",
     "status": "Hyväksytty",
