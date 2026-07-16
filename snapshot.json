@@ -3157,6 +3157,18 @@
   },
   {
     "table": 0,
+    "date": "16.7.2026",
+    "player": "Syrjälä Emma",
+    "status": "Odottaa hyväksyntää",
+    "type": "Täyssiirto",
+    "from_club": "Kuusankosken Puhti",
+    "to_club": "Mailattaret, Vaasa",
+    "leagues": "Naisten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "20.1.2026",
     "player": "Särkijärvi Sanna",
     "status": "Hyväksytty",
