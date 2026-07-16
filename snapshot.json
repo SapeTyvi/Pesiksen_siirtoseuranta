@@ -2127,7 +2127,7 @@
     "table": 0,
     "date": "15.7.2026",
     "player": "Niskala Artturi",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Sotkamon Jymy",
     "to_club": "Imatran Pallo-Veikot",
@@ -2192,7 +2192,7 @@
     "from_club": "Tyrnävän Tempaus",
     "to_club": "Raksilan Likat, Oulu",
     "leagues": "Naisten Superpesis",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu16.7.2026 12:38",
     "details": ""
   },
   {
@@ -3260,7 +3260,7 @@
     "from_club": "Joensuun Maila",
     "to_club": "Fera, Rauma",
     "leagues": "Naisten Superpesis",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu16.7.2026 14:02",
     "details": ""
   },
   {
