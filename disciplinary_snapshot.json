@@ -1,5 +1,37 @@
 [
   {
+    "key": "128966|9666|Varoitus (1 p.)",
+    "date": "2026-07-16T18:10:00+03:00",
+    "series": "Miesten Superpesis",
+    "home": "Vimpelin Veto",
+    "away": "Sotkamon Jymy",
+    "target_name": "Aleksanteri Huotari",
+    "target_type": "player",
+    "target_team": "Sotkamon Jymy",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Äänekäs asiaton kielenkäyttö",
+    "when_happened": "1. jakso 4L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "130626|11670|Varoitus (1 p.)",
+    "date": "2026-07-16T18:00:00+03:00",
+    "series": "Miesten suomensarja",
+    "home": "Loimaan Palloilijat",
+    "away": "Jokioisten Koetus",
+    "target_name": "Markus Nokso-Koivisto",
+    "target_type": "player",
+    "target_team": "Jokioisten Koetus",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "1. jakso 2A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "128876|2443|Varoitus (1 p.)",
     "date": "2026-07-15T18:00:00+03:00",
     "series": "Miesten Superpesis",
