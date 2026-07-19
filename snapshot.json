@@ -1640,7 +1640,7 @@
     "from_club": "Laitilan Jyske",
     "to_club": "Ikaalisten Tarmo",
     "leagues": "Naisten Ykköspesis",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu19.7.2026 21:41",
     "details": ""
   },
   {
@@ -3139,6 +3139,18 @@
     "type": "Täyssiirto",
     "from_club": "Hyvinkään Tahko",
     "to_club": "Mailattaret, Vaasa",
+    "leagues": "Naisten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
+    "date": "19.7.2026",
+    "player": "Suominen Henna",
+    "status": "Odottaa hyväksyntää",
+    "type": "Täyssiirto",
+    "from_club": "Pesäkarhut, Pori",
+    "to_club": "Laitilan Jyske",
     "leagues": "Naisten Superpesis",
     "lisatiedot": "",
     "details": ""
