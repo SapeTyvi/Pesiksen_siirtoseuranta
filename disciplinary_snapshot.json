@@ -1,5 +1,21 @@
 [
   {
+    "key": "130338|11564|Varoitus (1 p.)",
+    "date": "2026-07-19T15:00:00+03:00",
+    "series": "Miesten suomensarja",
+    "home": "Puurtilan Kisa-Pojat, Varkaus",
+    "away": "Jyväskylän Lohi",
+    "target_name": "Lauri Savolainen",
+    "target_type": "player",
+    "target_team": "Jyväskylän Lohi",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Pitkittynyt provosointi",
+    "when_happened": "2. jakso 4L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "130728|12538|Varoitus (1 p.)",
     "date": "2026-07-19T13:00:00+03:00",
     "series": "Naisten suomensarja",
