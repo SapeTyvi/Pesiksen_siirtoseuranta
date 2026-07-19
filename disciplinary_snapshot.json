@@ -1,5 +1,21 @@
 [
   {
+    "key": "130728|12538|Varoitus (1 p.)",
+    "date": "2026-07-19T13:00:00+03:00",
+    "series": "Naisten suomensarja",
+    "home": "Sotkamon Jymy",
+    "away": "Kempeleen Kiri",
+    "target_name": "Veera Hirvaskoski",
+    "target_type": "player",
+    "target_team": "Kempeleen Kiri",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Näkyvä protestointi",
+    "when_happened": "2. jakso 1L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "128966|9666|Varoitus (1 p.)",
     "date": "2026-07-16T18:10:00+03:00",
     "series": "Miesten Superpesis",
