@@ -325,6 +325,18 @@
   },
   {
     "table": 0,
+    "date": "20.7.2026",
+    "player": "Hakoniemi Ilona",
+    "status": "Odottaa hyväksyntää",
+    "type": "Täyssiirto",
+    "from_club": "Fera, Rauma",
+    "to_club": "Mynämäen Vesa",
+    "leagues": "Naisten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "29.4.2026",
     "player": "Hallasuo Markus",
     "status": "Hyväksytty",
@@ -675,7 +687,7 @@
     "table": 0,
     "date": "20.7.2026",
     "player": "Hyttinen Jali",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Kouvolan Pallonlyöjät",
     "to_club": "Alajärven Ankkuritpesis",
