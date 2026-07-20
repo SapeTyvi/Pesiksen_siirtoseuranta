@@ -673,6 +673,18 @@
   },
   {
     "table": 0,
+    "date": "20.7.2026",
+    "player": "Hyttinen Jali",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Kouvolan Pallonlyöjät",
+    "to_club": "Alajärven Ankkuritpesis",
+    "leagues": "Miesten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "28.1.2026",
     "player": "Hämäläinen Waltteri",
     "status": "Hyväksytty",
@@ -3885,6 +3897,18 @@
     "to_club": "Haapajärven Pesä-Kiilat",
     "leagues": "",
     "lisatiedot": "Siirto purettu3.6.2026 10:50",
+    "details": ""
+  },
+  {
+    "table": 1,
+    "date": "20.7.2026",
+    "player": "Huunanmaa Masi",
+    "status": "Hyväksytty",
+    "type": "Määräaikainen siirto",
+    "from_club": "Pesäkarhut, Pori",
+    "to_club": "Pesäsudet Eura",
+    "leagues": "",
+    "lisatiedot": "",
     "details": ""
   },
   {
