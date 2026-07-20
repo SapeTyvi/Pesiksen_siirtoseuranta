@@ -1,5 +1,21 @@
 [
   {
+    "key": "130236|15785|Varoitus (1 p.)",
+    "date": "2026-07-20T18:00:00+03:00",
+    "series": "Poikien Superpesis",
+    "home": "Hyvinkään Tahko",
+    "away": "Seinäjoen Maila-Jussit",
+    "target_name": "Sebastian Oksanen",
+    "target_type": "player",
+    "target_team": "Seinäjoen Maila-Jussit",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 4L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "130338|11564|Varoitus (1 p.)",
     "date": "2026-07-19T15:00:00+03:00",
     "series": "Miesten suomensarja",
