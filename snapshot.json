@@ -1045,6 +1045,18 @@
   },
   {
     "table": 0,
+    "date": "20.7.2026",
+    "player": "Kippola Elias",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Sotkamon Jymy",
+    "to_club": "Simon Kiri",
+    "leagues": "Miesten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "2.4.2026",
     "player": "Kippola Elias",
     "status": "Hyväksytty",
@@ -3159,7 +3171,7 @@
     "table": 0,
     "date": "19.7.2026",
     "player": "Suominen Henna",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Täyssiirto",
     "from_club": "Pesäkarhut, Pori",
     "to_club": "Laitilan Jyske",
