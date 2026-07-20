@@ -2437,6 +2437,18 @@
   },
   {
     "table": 0,
+    "date": "20.7.2026",
+    "player": "Penttilä Eero",
+    "status": "Odottaa hyväksyntää",
+    "type": "Täyssiirto",
+    "from_club": "Laihian Luja",
+    "to_club": "Koskenkorvan Urheilijat",
+    "leagues": "Miesten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "20.1.2026",
     "player": "Peräaho Kerttu",
     "status": "Hyväksytty",
