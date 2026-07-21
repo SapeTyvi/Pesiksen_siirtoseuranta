@@ -380,7 +380,7 @@
     "from_club": "Puna-Mustat, Helsinki",
     "to_club": "Siilinjärven Pesis",
     "leagues": "Miesten Ykköspesis",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu21.7.2026 21:05",
     "details": ""
   },
   {
@@ -2096,6 +2096,18 @@
     "from_club": "Kankaanpään Maila",
     "to_club": "Koskenkorvan Urheilijat",
     "leagues": "Miesten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
+    "date": "21.7.2026",
+    "player": "Männistö Olga",
+    "status": "Hyväksytty",
+    "type": "Määräaikainen siirto",
+    "from_club": "Seinäjoen Maila-Jussit",
+    "to_club": "Kuusankosken Puhti",
+    "leagues": "Naisten Ykköspesis",
     "lisatiedot": "",
     "details": ""
   },
@@ -4316,7 +4328,7 @@
     "from_club": "Kankaanpään Maila",
     "to_club": "Alajärven Ankkuritpesis",
     "leagues": "",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu21.7.2026 21:01",
     "details": ""
   },
   {
