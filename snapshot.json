@@ -440,7 +440,7 @@
     "from_club": "Roihu, Helsinki",
     "to_club": "Pesäkarhut, Pori",
     "leagues": "Naisten Ykköspesis",
-    "lisatiedot": "",
+    "lisatiedot": "Siirto purettu20.7.2026 22:52",
     "details": ""
   },
   {
@@ -2439,7 +2439,7 @@
     "table": 0,
     "date": "20.7.2026",
     "player": "Penttilä Eero",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Täyssiirto",
     "from_club": "Laihian Luja",
     "to_club": "Koskenkorvan Urheilijat",
@@ -4281,6 +4281,18 @@
     "to_club": "Lahden Mailaveikot",
     "leagues": "",
     "lisatiedot": "Siirto purettu1.7.2026 10:19",
+    "details": ""
+  },
+  {
+    "table": 1,
+    "date": "21.7.2026",
+    "player": "Uusitalo Tiitu",
+    "status": "Hyväksytty",
+    "type": "Määräaikainen siirto",
+    "from_club": "Kankaanpään Maila",
+    "to_club": "Alajärven Ankkuritpesis",
+    "leagues": "",
+    "lisatiedot": "",
     "details": ""
   },
   {
