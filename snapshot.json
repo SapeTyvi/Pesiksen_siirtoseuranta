@@ -1059,7 +1059,7 @@
     "table": 0,
     "date": "20.7.2026",
     "player": "Kippola Elias",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Sotkamon Jymy",
     "to_club": "Simon Kiri",
@@ -3775,6 +3775,18 @@
     "type": "Täyssiirto",
     "from_club": "Tyrnävän Tempaus",
     "to_club": "Raksilan Likat, Oulu",
+    "leagues": "Naisten Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
+    "date": "21.7.2026",
+    "player": "Winter Oona",
+    "status": "Odottaa hyväksyntää",
+    "type": "Täyssiirto",
+    "from_club": "Mailattaret, Vaasa",
+    "to_club": "Pöytyän Urheilijat Pesäpallo",
     "leagues": "Naisten Superpesis",
     "lisatiedot": "",
     "details": ""
