@@ -3541,6 +3541,18 @@
   },
   {
     "table": 0,
+    "date": "21.7.2026",
+    "player": "Vainionperä Jemina",
+    "status": "Odottaa hyväksyntää",
+    "type": "Täyssiirto",
+    "from_club": "Haminan Palloilijat",
+    "to_club": "Kuusankosken Puhti",
+    "leagues": "Naisten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "30.11.2025",
     "player": "Vainionpää Jukka-Pekka",
     "status": "Hyväksytty",
@@ -3740,6 +3752,18 @@
     "from_club": "Joensuun Maila",
     "to_club": "Jyväskylän Kiri 2020",
     "leagues": "Miesten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
+    "date": "21.7.2026",
+    "player": "Vuollo Lauri",
+    "status": "Odottaa hyväksyntää",
+    "type": "Täyssiirto",
+    "from_club": "Jyväskylän Kiri 2020",
+    "to_club": "Kempeleen Kiri",
+    "leagues": "Miesten Superpesis",
     "lisatiedot": "",
     "details": ""
   },
