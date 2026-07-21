@@ -277,6 +277,18 @@
   },
   {
     "table": 0,
+    "date": "21.7.2026",
+    "player": "Hacklin Juho",
+    "status": "Hyväksytty",
+    "type": "Täyssiirto",
+    "from_club": "Kouvolan Pallonlyöjät",
+    "to_club": "Puna-Mustat, Helsinki",
+    "leagues": "Miesten Ykköspesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "31.1.2026",
     "player": "Hacklin Milla",
     "status": "Hyväksytty",
@@ -3783,7 +3795,7 @@
     "table": 0,
     "date": "21.7.2026",
     "player": "Winter Oona",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Täyssiirto",
     "from_club": "Mailattaret, Vaasa",
     "to_club": "Pöytyän Urheilijat Pesäpallo",
