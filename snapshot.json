@@ -4285,6 +4285,18 @@
   },
   {
     "table": 1,
+    "date": "22.7.2026",
+    "player": "Rintala Renne",
+    "status": "Hyväksytty",
+    "type": "Määräaikainen siirto",
+    "from_club": "Koskenkorvan Urheilijat",
+    "to_club": "Laihian Luja",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "12.6.2026",
     "player": "Rusthollkarhu Ringa",
     "status": "Hyväksytty",
