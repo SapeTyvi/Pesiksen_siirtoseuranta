@@ -3759,7 +3759,7 @@
     "table": 0,
     "date": "21.7.2026",
     "player": "Vuollo Lauri",
-    "status": "Odottaa hyväksyntää",
+    "status": "Hyväksytty",
     "type": "Täyssiirto",
     "from_club": "Jyväskylän Kiri 2020",
     "to_club": "Kempeleen Kiri",
@@ -4329,6 +4329,18 @@
     "to_club": "Kempeleen Kiri",
     "leagues": "",
     "lisatiedot": "Siirto purettu21.5.2026 14:12",
+    "details": ""
+  },
+  {
+    "table": 1,
+    "date": "23.7.2026",
+    "player": "Sandholm Ingrid",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Ylivieskan Kuula",
+    "to_club": "Haapajärven Pesä-Kiilat",
+    "leagues": "",
+    "lisatiedot": "",
     "details": ""
   },
   {
