@@ -1,5 +1,21 @@
 [
   {
+    "key": "129210|582|Varoitus (1 p.)",
+    "date": "2026-07-24T17:00:00+03:00",
+    "series": "Naisten Superpesis",
+    "home": "Lapuan Virkiä",
+    "away": "Jussittaret, Seinäjoki",
+    "target_name": "Tomi Niskanen",
+    "target_type": "manager",
+    "target_team": "Lapuan Virkiä",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Äänekäs protestointi",
+    "when_happened": "1. jakso 3A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129666|8290|Varoitus (1 p.)",
     "date": "2026-07-22T18:00:00+03:00",
     "series": "Miesten Ykköspesis",
