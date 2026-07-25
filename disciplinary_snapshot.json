@@ -1,5 +1,37 @@
 [
   {
+    "key": "129147|10028|Varoitus (1 p.)",
+    "date": "2026-07-25T17:00:00+03:00",
+    "series": "Naisten Superpesis",
+    "home": "Oulun Lippo Naiset",
+    "away": "Pöytyän Urheilijat Pesäpallo",
+    "target_name": "Nea Tuikka",
+    "target_type": "player",
+    "target_team": "Oulun Lippo Naiset",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Pitkittynyt protestointi",
+    "when_happened": "2. jakso 3L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "128981|773|Varoitus (1 p.)",
+    "date": "2026-07-25T16:00:00+03:00",
+    "series": "Miesten Superpesis",
+    "home": "Alajärven Ankkurit",
+    "away": "Vimpelin Veto",
+    "target_name": "Mikko Vainionpää",
+    "target_type": "manager",
+    "target_team": "Alajärven Ankkurit",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Pitkittynyt protestointi",
+    "when_happened": "2. jakso 2A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "130922|6366|Varoitus (1 p.)",
     "date": "2026-07-25T13:00:00+03:00",
     "series": "Naisten suomensarja",
