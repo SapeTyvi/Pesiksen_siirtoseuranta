@@ -1,5 +1,21 @@
 [
   {
+    "key": "129673|8019|Varoitus (1 p.)",
+    "date": "2026-07-25T18:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Seinäjoen Maila-Jussit",
+    "away": "Nurmon Jymy",
+    "target_name": "Juuso Vuorenmäki",
+    "target_type": "player",
+    "target_team": "Nurmon Jymy",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Luvaton kentälletulo",
+    "when_happened": "2. jakso 4A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129147|10028|Varoitus (1 p.)",
     "date": "2026-07-25T17:00:00+03:00",
     "series": "Naisten Superpesis",
@@ -26,7 +42,7 @@
     "target_team": "Alajärven Ankkurit",
     "type_name": "Varoitus (1 p.)",
     "reason": "Pitkittynyt protestointi",
-    "when_happened": "2. jakso 2A",
+    "when_happened": "1. jakso 2A",
     "has_decision": false,
     "processing_started": false,
     "processing_ended": false
@@ -350,6 +366,22 @@
     "has_decision": false,
     "processing_started": false,
     "processing_ended": false
+  },
+  {
+    "key": "130348|11555|Kurinpidon käsittelyssä",
+    "date": "2026-07-11T14:00:00+03:00",
+    "series": "Miesten suomensarja",
+    "home": "Jyväskylän Lohi",
+    "away": "Imatran Pallo-Veikot",
+    "target_name": "Onni Kivinen",
+    "target_type": "player",
+    "target_team": "Jyväskylän Lohi",
+    "type_name": "Kurinpidon käsittelyssä",
+    "reason": null,
+    "when_happened": "Kotiutuskilpailu 1L",
+    "has_decision": true,
+    "processing_started": true,
+    "processing_ended": true
   },
   {
     "key": "130443|4373|Varoitus (1 p.)",
