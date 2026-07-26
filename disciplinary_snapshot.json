@@ -16,6 +16,22 @@
     "processing_ended": false
   },
   {
+    "key": "129408|9311|Varoitus (1 p.)",
+    "date": "2026-07-26T17:00:00+03:00",
+    "series": "Naisten Ykköspesis",
+    "home": "Haminan Palloilijat",
+    "away": "Ikaalisten Tarmo",
+    "target_name": "Senja Kaarikivi",
+    "target_type": "player",
+    "target_team": "Haminan Palloilijat",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Äänekäs asiaton kielenkäyttö",
+    "when_happened": "2. jakso 4L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129673|8019|Varoitus (1 p.)",
     "date": "2026-07-25T18:00:00+03:00",
     "series": "Miesten Ykköspesis",
