@@ -15,14 +15,10 @@ TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 TRACKED_LEAGUES = {
     "Miesten Superpesis",
     "Miesten Ykköspesis",
-    "Miesten Talvisuper",
     "Naisten Superpesis",
     "Naisten Ykköspesis",
-    "Naisten Talvisuper",
     "Poikien Superpesis",
     "Tyttöjen Superpesis",
-    "Miesten suomensarja",
-    "Naisten suomensarja"
 }
 
 
@@ -45,10 +41,10 @@ def fetch_decisions():
                 "key": f"{d['match']['id']}|{d['target']['id']}|{d['type_name']}",
                 "date": d["match"]["date"],
                 "series": series,
-                "home": d["match"]["home"]["name"],
-                "away": d["match"]["away"]["name"],
-                "target_name": d["target"]["name"],
-                "target_type": d["target"]["type"],
+                "home": d["match"]["home"]["name"] or "",
+                "away": d["match"]["away"]["name"] or "",
+                "target_name": d["target"]["name"] or "",
+                "target_type": d["target"]["type"] or "",
                 "target_team": d["target"].get("team") or "",
                 "type_name": d["type_name"],
                 "reason": d.get("reason", ""),
