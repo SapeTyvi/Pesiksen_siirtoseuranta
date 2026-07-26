@@ -1,5 +1,21 @@
 [
   {
+    "key": "129269|12583|Varoitus (1 p.)",
+    "date": "2026-07-26T17:00:00+03:00",
+    "series": "Naisten Ykköspesis",
+    "home": "Haapajärven Pesä-Kiilat",
+    "away": "Pesäkarhut-Akatemia, Pori",
+    "target_name": "Alisa Mansikka",
+    "target_type": "player",
+    "target_team": "Pesäkarhut-Akatemia, Pori",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Pitkittynyt protestointi",
+    "when_happened": "2. jakso 2A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129673|8019|Varoitus (1 p.)",
     "date": "2026-07-25T18:00:00+03:00",
     "series": "Miesten Ykköspesis",
