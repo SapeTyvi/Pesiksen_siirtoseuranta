@@ -1,5 +1,21 @@
 [
   {
+    "key": "130220|14058|Varoitus (1 p.)",
+    "date": "2026-07-28T18:00:00+03:00",
+    "series": "Poikien Superpesis",
+    "home": "Manse PP 2, Tampere",
+    "away": "Hyvinkään Tahko",
+    "target_name": "Paavo Lehto",
+    "target_type": "player",
+    "target_team": "Hyvinkään Tahko",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Pitkittynyt protestointi",
+    "when_happened": "2. jakso 1L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129269|12583|Varoitus (1 p.)",
     "date": "2026-07-26T17:00:00+03:00",
     "series": "Naisten Ykköspesis",
