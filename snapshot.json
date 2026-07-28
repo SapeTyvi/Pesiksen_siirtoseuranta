@@ -4357,6 +4357,18 @@
   },
   {
     "table": 1,
+    "date": "28.7.2026",
+    "player": "Turunen Hanna",
+    "status": "Hyväksytty",
+    "type": "Määräaikainen siirto",
+    "from_club": "Manse PP, Tampere",
+    "to_club": "Ikaalisten Tarmo",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "14.5.2026",
     "player": "Tuulari Emil",
     "status": "Hyväksytty",
