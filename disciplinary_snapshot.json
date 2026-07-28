@@ -400,6 +400,22 @@
     "processing_ended": true
   },
   {
+    "key": "129644|11849|Kurinpidon käsittelyssä",
+    "date": "2026-07-04T17:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Simon Kiri",
+    "away": "Puna-Mustat, Helsinki",
+    "target_name": "Juuso Nousiainen",
+    "target_type": "player",
+    "target_team": "Simon Kiri",
+    "type_name": "Kurinpidon käsittelyssä",
+    "reason": "Ei rangaistusta",
+    "when_happened": "2. jakso 1A",
+    "has_decision": true,
+    "processing_started": true,
+    "processing_ended": true
+  },
+  {
     "key": "129642|12903|Varoitus (1 p.)",
     "date": "2026-07-04T15:10:00+03:00",
     "series": "Miesten Ykköspesis",
