@@ -128,6 +128,38 @@
     "processing_ended": false
   },
   {
+    "key": "129665|3340|Kurinpidon käsittelyssä",
+    "date": "2026-07-21T18:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Ulvilan Pesä-Veikot",
+    "away": "Siilinjärven Pesis",
+    "target_name": "Valtteri Liikamaa",
+    "target_type": "manager",
+    "target_team": "Ulvilan Pesä-Veikot",
+    "type_name": "Kurinpidon käsittelyssä",
+    "reason": "Epäurheilijamaisuus ja asiaton kielenkäyttö",
+    "when_happened": "Ottelun jälkeen",
+    "has_decision": true,
+    "processing_started": true,
+    "processing_ended": true
+  },
+  {
+    "key": "129665|76|Varoitus (1 p.)",
+    "date": "2026-07-21T18:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Ulvilan Pesä-Veikot",
+    "away": "Siilinjärven Pesis",
+    "target_name": "Raimo Bragge",
+    "target_type": "manager",
+    "target_team": "Ulvilan Pesä-Veikot",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Joukkueen epäurheilijamaisuus",
+    "when_happened": "Ottelun jälkeen",
+    "has_decision": true,
+    "processing_started": true,
+    "processing_ended": true
+  },
+  {
     "key": "130236|15785|Varoitus (1 p.)",
     "date": "2026-07-20T18:00:00+03:00",
     "series": "Poikien Superpesis",
