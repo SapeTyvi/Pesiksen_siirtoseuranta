@@ -1,5 +1,21 @@
 [
   {
+    "key": "128873|6090|Varoitus (1 p.)",
+    "date": "2026-07-31T18:00:00+03:00",
+    "series": "Miesten Superpesis",
+    "home": "Manse PP, Tampere",
+    "away": "Vimpelin Veto",
+    "target_name": "Juuso Myllyniemi",
+    "target_type": "player",
+    "target_team": "Manse PP, Tampere",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 3A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129032|8518|Varoitus (1 p.)",
     "date": "2026-07-29T18:00:00+03:00",
     "series": "Miesten Superpesis",
