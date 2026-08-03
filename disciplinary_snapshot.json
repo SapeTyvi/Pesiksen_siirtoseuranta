@@ -48,6 +48,38 @@
     "processing_ended": false
   },
   {
+    "key": "128913|12047|Kurinpidon käsittelyssä",
+    "date": "2026-07-31T18:00:00+03:00",
+    "series": "Miesten Superpesis",
+    "home": "Kempeleen Kiri",
+    "away": "Joensuun Maila",
+    "target_name": "Olli Heikkala",
+    "target_type": "player",
+    "target_team": "Kempeleen Kiri",
+    "type_name": "Kurinpidon käsittelyssä",
+    "reason": null,
+    "when_happened": "1. jakso 1L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "128913|8286|Kurinpidon käsittelyssä",
+    "date": "2026-07-31T18:00:00+03:00",
+    "series": "Miesten Superpesis",
+    "home": "Kempeleen Kiri",
+    "away": "Joensuun Maila",
+    "target_name": "Joni Lehikoinen",
+    "target_type": "player",
+    "target_team": "Joensuun Maila",
+    "type_name": "Kurinpidon käsittelyssä",
+    "reason": null,
+    "when_happened": "1. jakso 1L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129032|8518|Varoitus (1 p.)",
     "date": "2026-07-29T18:00:00+03:00",
     "series": "Miesten Superpesis",
