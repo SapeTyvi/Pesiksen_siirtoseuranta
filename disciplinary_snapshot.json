@@ -1,5 +1,37 @@
 [
   {
+    "key": "131183|155|Varoitus (1 p.)",
+    "date": "2026-08-03T17:00:00+03:00",
+    "series": "Poikien Superpesis",
+    "home": "Joensuun Maila 2",
+    "away": "Veteli Pesis",
+    "target_name": "Kari Kleemola",
+    "target_type": "manager",
+    "target_team": "Veteli Pesis",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 3A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "131183|18197|Pelirangaistus (1 p.)",
+    "date": "2026-08-03T17:00:00+03:00",
+    "series": "Poikien Superpesis",
+    "home": "Joensuun Maila 2",
+    "away": "Veteli Pesis",
+    "target_name": "Topias Yli-Sikkilä ",
+    "target_type": "player",
+    "target_team": "Veteli Pesis",
+    "type_name": "Pelirangaistus (1 p.)",
+    "reason": "Törkeä kielenkäyttö",
+    "when_happened": "2. jakso 4A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "128873|6090|Varoitus (1 p.)",
     "date": "2026-07-31T18:00:00+03:00",
     "series": "Miesten Superpesis",
