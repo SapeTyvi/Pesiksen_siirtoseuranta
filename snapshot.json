@@ -3205,6 +3205,18 @@
   },
   {
     "table": 0,
+    "date": "29.11.2025",
+    "player": "Sironen Eerika",
+    "status": "Hyväksytty",
+    "type": "Täyssiirto",
+    "from_club": "Lapuan Virkiä",
+    "to_club": "Alajärven Ankkurit",
+    "leagues": "Naisten Ykköspesis, Naisten suomensarja, Tyttöjen Superpesis",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 0,
     "date": "30.1.2026",
     "player": "Sivonen Marianne",
     "status": "Hyväksytty",
