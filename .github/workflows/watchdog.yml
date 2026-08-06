@@ -1,0 +1,52 @@
+name: Failure Watchdog
+
+on:
+  workflow_run:
+    workflows: ["Pesis Watchers"]
+    types: [completed]
+
+permissions:
+  actions: read
+  contents: write
+
+jobs:
+  classify:
+    if: github.event.workflow_run.conclusion == 'failure'
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: Check for an active GitHub Actions incident
+        id: incident
+        run: |
+          status=$(curl -s https://www.githubstatus.com/api/v2/incidents/unresolved.json)
+          hits=$(echo "$status" | jq -r '[.incidents[]? | select(.components[]?.name | test("Actions"; "i"))] | length')
+          echo "active=$hits" >> "$GITHUB_OUTPUT"
+          echo "$status" | jq -r '.incidents[]? | "- " + .name + " (" + .status + ")"' || true
+
+      - name: Inspect the failed jobs
+        id: jobs
+        run: |
+          run_id="${{ github.event.workflow_run.id }}"
+          jobs=$(gh api "repos/${{ github.repository }}/actions/runs/$run_id/jobs")
+          # A job that GitHub never assigned to a runner shows up as a failure
+          # with an empty steps array — that's the "not acquired by Runner" signature.
+          infra=$(echo "$jobs" | jq '[.jobs[] | select(.conclusion=="failure") | select((.steps | length) == 0)] | length')
+          real=$(echo "$jobs" | jq '[.jobs[] | select(.conclusion=="failure") | select((.steps | length) > 0)] | length')
+          echo "infra_jobs=$infra" >> "$GITHUB_OUTPUT"
+          echo "real_jobs=$real" >> "$GITHUB_OUTPUT"
+
+      - name: Decide and dispatch
+        run: |
+          if [ "${{ steps.incident.outputs.active }}" != "0" ]; then
+            echo "::notice::Active GitHub Actions incident on githubstatus.com — treating this failure as an outage, no action needed."
+            exit 0
+          fi
+          if [ "${{ steps.jobs.outputs.real_jobs }}" = "0" ]; then
+            echo "::notice::Every failed job never started (runner-acquisition failure, no incident on record) — likely a transient infra hiccup. Skipping."
+            exit 0
+          fi
+          echo "::notice::Real failure detected in at least one job that actually ran steps — dispatching for diagnosis."
+          gh api "repos/${{ github.repository }}/dispatches" --input - <<EOF
+          {"event_type":"pesis-bug-diagnose","client_payload":{"run_id":"${{ github.event.workflow_run.id }}"}}
+          EOF
