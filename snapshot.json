@@ -4225,6 +4225,18 @@
   },
   {
     "table": 1,
+    "date": "6.8.2026",
+    "player": "Nygård Mirella",
+    "status": "Hyväksytty",
+    "type": "Määräaikainen siirto",
+    "from_club": "Alajärven Ankkurit",
+    "to_club": "Pöytyän Urheilijat Pesäpallo",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "7.7.2026",
     "player": "Penttilä Eero",
     "status": "Hyväksytty",
