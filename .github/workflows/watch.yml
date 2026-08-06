@@ -2,7 +2,7 @@ name: Pesis Watchers
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 4-20 * * *"
   workflow_dispatch:
 
 jobs:

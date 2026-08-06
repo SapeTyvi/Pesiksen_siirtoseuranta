@@ -1,0 +1,43 @@
+name: Diagnose and Fix Failure
+
+on:
+  repository_dispatch:
+    types: [pesis-bug-diagnose]
+
+permissions:
+  contents: write
+  pull-requests: write
+  actions: read
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: anthropics/claude-code-action@v1
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_args: |
+            --allowedTools "Bash(gh:*),Bash(git:*),Read,Edit,Write,Glob,Grep"
+            --max-turns 30
+          prompt: |
+            The scheduled workflow "Pesis Watchers" failed in run
+            https://github.com/${{ github.repository }}/actions/runs/${{ github.event.client_payload.run_id }}
+            and a watchdog job already ruled out a GitHub-wide outage or a
+            runner-acquisition hiccup — this is a real failure worth investigating.
+
+            1. Run `gh run view ${{ github.event.client_payload.run_id }} --log-failed`
+               to read what actually failed.
+            2. Read the relevant source (check_transfers.py, check_disciplinary.py,
+               or .github/workflows/watch.yml) to find the root cause.
+            3. Make the smallest fix that addresses the root cause. Don't refactor
+               or clean up unrelated code.
+            4. Create a new branch, commit the fix, push it, and open a **draft**
+               pull request against main. Explain the root cause and the fix in the
+               PR description. Do not merge it.
+
+            If, after investigating, the failure looks flaky or transient rather
+            than a real bug, don't open a PR — just say why in your final summary.
