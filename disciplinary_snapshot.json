@@ -76,8 +76,24 @@
     "reason": "Törkeä kielenkäyttö",
     "when_happened": "2. jakso 4A",
     "has_decision": false,
-    "processing_started": false,
-    "processing_ended": false
+    "processing_started": true,
+    "processing_ended": true
+  },
+  {
+    "key": "131183|18197|Kurinpidon käsittelyssä",
+    "date": "2026-08-03T17:00:00+03:00",
+    "series": "Poikien Superpesis",
+    "home": "Joensuun Maila 2",
+    "away": "Veteli Pesis",
+    "target_name": "Topias Yli-Sikkilä ",
+    "target_type": "player",
+    "target_team": "Veteli Pesis",
+    "type_name": "Kurinpidon käsittelyssä",
+    "reason": "Syrjivä epäasiallinen käyttäytyminen",
+    "when_happened": "2. jakso 4A",
+    "has_decision": true,
+    "processing_started": true,
+    "processing_ended": true
   },
   {
     "key": "128873|6090|Varoitus (1 p.)",
