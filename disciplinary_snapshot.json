@@ -1,5 +1,37 @@
 [
   {
+    "key": "129179|2659|Varoitus (1 p.)",
+    "date": "2026-08-07T18:00:00+03:00",
+    "series": "Naisten Superpesis",
+    "home": "Mailattaret, Vaasa",
+    "away": "Oulun Lippo Naiset",
+    "target_name": "Mikael Sillanpää",
+    "target_type": "manager",
+    "target_team": "Mailattaret, Vaasa",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Toimihenkilön epäurheilijamaisuus",
+    "when_happened": "1. jakso 4A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "129689|5435|Varoitus (1 p.)",
+    "date": "2026-08-07T18:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Haminan Palloilijat",
+    "away": "Kankaanpään Maila",
+    "target_name": "Juha Leskinen",
+    "target_type": "player",
+    "target_team": "Haminan Palloilijat",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 2L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "128878|6640|Varoitus (1 p.)",
     "date": "2026-08-06T18:00:00+03:00",
     "series": "Miesten Superpesis",
