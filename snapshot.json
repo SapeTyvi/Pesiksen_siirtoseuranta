@@ -4153,9 +4153,21 @@
   },
   {
     "table": 1,
-    "date": "3.8.2026",
+    "date": "8.8.2026",
     "player": "Lepomäki Eemil",
     "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Pesäkarhut, Pori",
+    "to_club": "Pesäsudet Eura",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
+    "date": "3.8.2026",
+    "player": "Lepomäki Eemil",
+    "status": "Hyväksytty",
     "type": "Määräaikainen siirto",
     "from_club": "Pesäkarhut, Pori",
     "to_club": "Pesäsudet Eura",
