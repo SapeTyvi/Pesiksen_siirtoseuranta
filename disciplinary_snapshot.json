@@ -1,5 +1,21 @@
 [
   {
+    "key": "129101|2611|Varoitus (1 p.)",
+    "date": "2026-08-09T16:00:00+03:00",
+    "series": "Naisten Superpesis",
+    "home": "Manse PP, Tampere",
+    "away": "Fera, Rauma",
+    "target_name": "Manu Vartia",
+    "target_type": "manager",
+    "target_team": "Manse PP, Tampere",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Näkyvä protestointi",
+    "when_happened": "1. jakso 1A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "146547|11087|Varoitus (1 p.)",
     "date": "2026-08-08T16:00:00+03:00",
     "series": "Naisten Ykköspesis",
