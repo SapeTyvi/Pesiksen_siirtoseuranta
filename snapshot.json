@@ -4141,6 +4141,18 @@
   },
   {
     "table": 1,
+    "date": "9.8.2026",
+    "player": "Lastikka Oliver",
+    "status": "Odottaa hyväksyntää",
+    "type": "Määräaikainen siirto",
+    "from_club": "Kannuksen Ura",
+    "to_club": "Kannuksen Ura",
+    "leagues": "",
+    "lisatiedot": "",
+    "details": ""
+  },
+  {
+    "table": 1,
     "date": "12.6.2026",
     "player": "Lehtiranta Emmi",
     "status": "Hyväksytty",
