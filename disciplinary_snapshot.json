@@ -64,6 +64,22 @@
     "processing_ended": false
   },
   {
+    "key": "128881|2558|Kurinpidon käsittelyssä",
+    "date": "2026-08-07T18:00:00+03:00",
+    "series": "Miesten Superpesis",
+    "home": "Kouvolan Pallonlyöjät",
+    "away": "Sotkamon Jymy",
+    "target_name": "Petri Tuuva",
+    "target_type": "manager",
+    "target_team": "Kouvolan Pallonlyöjät",
+    "type_name": "Kurinpidon käsittelyssä",
+    "reason": "Joukkueenjohtajan syrjivä epäasiallinen käyttäytyminen",
+    "when_happened": "1. jakso 2L",
+    "has_decision": true,
+    "processing_started": true,
+    "processing_ended": true
+  },
+  {
     "key": "129179|2659|Varoitus (1 p.)",
     "date": "2026-08-07T18:00:00+03:00",
     "series": "Naisten Superpesis",
