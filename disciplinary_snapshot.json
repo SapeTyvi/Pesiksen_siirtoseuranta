@@ -1,5 +1,21 @@
 [
   {
+    "key": "146546|9311|Varoitus (1 p.)",
+    "date": "2026-08-12T17:30:00+03:00",
+    "series": "Naisten Ykköspesis",
+    "home": "Pesä Ysit, Lappeenranta",
+    "away": "Haminan Palloilijat",
+    "target_name": "Senja Kaarikivi",
+    "target_type": "player",
+    "target_team": "Haminan Palloilijat",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 3A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "129101|2611|Varoitus (1 p.)",
     "date": "2026-08-09T16:00:00+03:00",
     "series": "Naisten Superpesis",
