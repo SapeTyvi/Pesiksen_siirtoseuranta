@@ -1,5 +1,21 @@
 [
   {
+    "key": "128961|1806|Varoitus (1 p.)",
+    "date": "2026-08-14T17:30:00+03:00",
+    "series": "Miesten Superpesis",
+    "home": "Pattijoen Urheilijat, Raahe",
+    "away": "Koskenkorvan Urheilijat",
+    "target_name": "Janne Rauhala",
+    "target_type": "manager",
+    "target_team": "Koskenkorvan Urheilijat",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 3A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "146546|9311|Varoitus (1 p.)",
     "date": "2026-08-12T17:30:00+03:00",
     "series": "Naisten Ykköspesis",
