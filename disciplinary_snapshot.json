@@ -32,6 +32,22 @@
     "processing_ended": false
   },
   {
+    "key": "146676|10317|Kurinpidon käsittelyssä",
+    "date": "2026-08-15T15:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Ulvilan Pesä-Veikot",
+    "away": "Simon Kiri",
+    "target_name": "Oskari Kleemola",
+    "target_type": "player",
+    "target_team": "Ulvilan Pesä-Veikot",
+    "type_name": "Kurinpidon käsittelyssä",
+    "reason": "Fyysisen koskemattomuuden rikkominen",
+    "when_happened": "Supervuoropari L",
+    "has_decision": false,
+    "processing_started": true,
+    "processing_ended": false
+  },
+  {
     "key": "128961|1806|Varoitus (1 p.)",
     "date": "2026-08-14T17:30:00+03:00",
     "series": "Miesten Superpesis",
