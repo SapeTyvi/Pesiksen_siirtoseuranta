@@ -1,5 +1,21 @@
 [
   {
+    "key": "146830|12774|Varoitus (1 p.)",
+    "date": "2026-08-15T16:30:00+03:00",
+    "series": "Naisten Ykköspesis",
+    "home": "Kajaanin Pallokerho",
+    "away": "Pesä Ysit, Lappeenranta",
+    "target_name": "Nelli Kilpi",
+    "target_type": "player",
+    "target_team": "Kajaanin Pallokerho",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 1A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "128961|1806|Varoitus (1 p.)",
     "date": "2026-08-14T17:30:00+03:00",
     "series": "Miesten Superpesis",
