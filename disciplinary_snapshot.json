@@ -1,5 +1,21 @@
 [
   {
+    "key": "146699|11355|Varoitus (1 p.)",
+    "date": "2026-08-15T17:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Puijon Pesis, Kuopio",
+    "away": "Seinäjoen Maila-Jussit",
+    "target_name": "Eemeli Virjo",
+    "target_type": "player",
+    "target_team": "Seinäjoen Maila-Jussit",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Näkyvä protestointi",
+    "when_happened": "2. jakso 4A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "146830|12774|Varoitus (1 p.)",
     "date": "2026-08-15T16:30:00+03:00",
     "series": "Naisten Ykköspesis",
