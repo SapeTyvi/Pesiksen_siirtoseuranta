@@ -43,9 +43,9 @@
     "type_name": "Kurinpidon käsittelyssä",
     "reason": "Fyysisen koskemattomuuden rikkominen",
     "when_happened": "Supervuoropari L",
-    "has_decision": false,
+    "has_decision": true,
     "processing_started": true,
-    "processing_ended": false
+    "processing_ended": true
   },
   {
     "key": "128961|1806|Varoitus (1 p.)",
