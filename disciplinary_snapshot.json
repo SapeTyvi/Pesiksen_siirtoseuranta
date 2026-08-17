@@ -1,5 +1,21 @@
 [
   {
+    "key": "146961|8311|Varoitus (1 p.)",
+    "date": "2026-08-17T17:30:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Nurmon Jymy",
+    "away": "Haminan Palloilijat",
+    "target_name": "Aleksi Rantala",
+    "target_type": "player",
+    "target_team": "Nurmon Jymy",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 1L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "146834|4354|Varoitus (1 p.)",
     "date": "2026-08-16T17:00:00+03:00",
     "series": "Naisten Ykköspesis",
