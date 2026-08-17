@@ -1,5 +1,21 @@
 [
   {
+    "key": "146470|15538|Varoitus (1 p.)",
+    "date": "2026-08-17T17:30:00+03:00",
+    "series": "Poikien Superpesis",
+    "home": "Puijon Pesis, Kuopio",
+    "away": "Kouvolan Pallonlyöjät",
+    "target_name": "Arttu Töyry",
+    "target_type": "player",
+    "target_team": "Kouvolan Pallonlyöjät",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "1. jakso 4L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "146961|8311|Varoitus (1 p.)",
     "date": "2026-08-17T17:30:00+03:00",
     "series": "Miesten Ykköspesis",
