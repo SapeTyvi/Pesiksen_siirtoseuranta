@@ -1,5 +1,37 @@
 [
   {
+    "key": "147016|7479|Varoitus (1 p.)",
+    "date": "2026-08-23T16:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Kannuksen Ura",
+    "away": "Haminan Palloilijat",
+    "target_name": "Timo Torppa",
+    "target_type": "player",
+    "target_team": "Kannuksen Ura",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 3A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "147021|2708|Varoitus (1 p.)",
+    "date": "2026-08-23T16:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Puijon Pesis, Kuopio",
+    "away": "Puna-Mustat, Helsinki",
+    "target_name": "Juha Puhtimäki",
+    "target_type": "player",
+    "target_team": "Puna-Mustat, Helsinki",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Pitkittynyt protestointi",
+    "when_happened": "1. jakso 4A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "146470|15538|Varoitus (1 p.)",
     "date": "2026-08-17T17:30:00+03:00",
     "series": "Poikien Superpesis",
