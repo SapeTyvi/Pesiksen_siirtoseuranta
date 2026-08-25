@@ -1,5 +1,37 @@
 [
   {
+    "key": "147017|5246|Varoitus (1 p.)",
+    "date": "2026-08-25T17:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Haminan Palloilijat",
+    "away": "Kannuksen Ura",
+    "target_name": "Sami Mikkolanaho",
+    "target_type": "player",
+    "target_team": "Kannuksen Ura",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "1. jakso 1L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "147017|17778|Varoitus (1 p.)",
+    "date": "2026-08-25T17:00:00+03:00",
+    "series": "Miesten Ykköspesis",
+    "home": "Haminan Palloilijat",
+    "away": "Kannuksen Ura",
+    "target_name": "Perttu Toikka",
+    "target_type": "player",
+    "target_team": "Haminan Palloilijat",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Epäurheilijamaisuus",
+    "when_happened": "2. jakso 1L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "147016|7479|Varoitus (1 p.)",
     "date": "2026-08-23T16:00:00+03:00",
     "series": "Miesten Ykköspesis",
