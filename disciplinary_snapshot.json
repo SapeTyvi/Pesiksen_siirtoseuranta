@@ -1,5 +1,37 @@
 [
   {
+    "key": "146861|2453|Varoitus (1 p.)",
+    "date": "2026-08-26T17:00:00+03:00",
+    "series": "Tyttöjen Superpesis",
+    "home": "Siilinjärven Pesis",
+    "away": "Fera, Rauma",
+    "target_name": "Toni Lehtinen",
+    "target_type": "manager",
+    "target_team": "Fera, Rauma",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Näkyvä protestointi",
+    "when_happened": "Kotiutuskilpailu 1L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "146861|2262|Pelirangaistus (1 p.)",
+    "date": "2026-08-26T17:00:00+03:00",
+    "series": "Tyttöjen Superpesis",
+    "home": "Siilinjärven Pesis",
+    "away": "Fera, Rauma",
+    "target_name": "Christian Koivu",
+    "target_type": "manager",
+    "target_team": "Fera, Rauma",
+    "type_name": "Pelirangaistus (1 p.)",
+    "reason": "Törkeä provosointi",
+    "when_happened": "Kotiutuskilpailu 1L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "147017|5246|Varoitus (1 p.)",
     "date": "2026-08-25T17:00:00+03:00",
     "series": "Miesten Ykköspesis",
