@@ -1,5 +1,21 @@
 [
   {
+    "key": "146867|9413|Varoitus (1 p.)",
+    "date": "2026-08-27T17:00:00+03:00",
+    "series": "Tyttöjen Superpesis",
+    "home": "Alajärven Ankkurit",
+    "away": "Mailajuniorit, Kankaanpää",
+    "target_name": "Rami Viitasalo",
+    "target_type": "manager",
+    "target_team": "Mailajuniorit, Kankaanpää",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Äänekäs asiaton kielenkäyttö",
+    "when_happened": "2. jakso 4L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "146861|2453|Varoitus (1 p.)",
     "date": "2026-08-26T17:00:00+03:00",
     "series": "Tyttöjen Superpesis",
