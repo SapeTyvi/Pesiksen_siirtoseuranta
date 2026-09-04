@@ -1,5 +1,37 @@
 [
   {
+    "key": "147118|1236|Varoitus (1 p.)",
+    "date": "2026-09-04T16:30:00+03:00",
+    "series": "Naisten Superpesis",
+    "home": "Pesäkarhut, Pori",
+    "away": "Jussittaret, Seinäjoki",
+    "target_name": "Seppo Arbelius",
+    "target_type": "manager",
+    "target_team": "Pesäkarhut, Pori",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Äänekäs asiaton kielenkäyttö",
+    "when_happened": "1. jakso 4L",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
+    "key": "147223|648|Varoitus (1 p.)",
+    "date": "2026-09-04T16:30:00+03:00",
+    "series": "Naisten Superpesis",
+    "home": "Laitilan Jyske",
+    "away": "Jokilaakson Pesäkuula, Ylivieska",
+    "target_name": "Toni Seppälä",
+    "target_type": "manager",
+    "target_team": "Jokilaakson Pesäkuula, Ylivieska",
+    "type_name": "Varoitus (1 p.)",
+    "reason": "Luvaton kentälletulo",
+    "when_happened": "2. jakso 4A",
+    "has_decision": false,
+    "processing_started": false,
+    "processing_ended": false
+  },
+  {
     "key": "147202|2561|Varoitus (1 p.)",
     "date": "2026-09-03T16:30:00+03:00",
     "series": "Miesten Superpesis",
